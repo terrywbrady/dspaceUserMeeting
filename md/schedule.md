@@ -21,7 +21,8 @@
 
 * Data migration from DSpace 5 to Dspace 6
   * Zhongda Zhang
-* Question: DSpace 7.0 and local changes (George Kozak) 
+* Question: DSpace 7.0 and local changes 
+  * Question from George Kozak 
   * Volunteer?
 * Integrating with other Library Applications
   * Volunteer?
@@ -37,9 +38,10 @@
 * Testing DSpace
   * Terry Brady 
 
-### Wednesday 8/23
 
 +++
+
+### Wednesday 8/23
 
 <pre>
 08:00-19:00 Breakfast
@@ -58,7 +60,8 @@
 
 ### Lightning Talks 2 (Wednesday AM)
 
-* Question: Introduction to OAI (Nathan Fralick)
+* Question: Introduction to OAI 
+  * Question from Nathan Fralick
   * Volunteer?
 * Contributing to DSpace  
   * Volunteer?
@@ -71,9 +74,9 @@
 
 * Managing and Displaying Complex Objects
   * Leah Prescott
-DSpace Community - What do You Need?
+* DSpace Community - What do You Need?
   * Volunteer?
-Promoting Your Repository
+* Promoting Your Repository
   * Salwa Ismail
 
 +++
@@ -91,7 +94,7 @@ Promoting Your Repository
 
 * Author Submission Policies and Practices
   * Maureen Walsh
-Assessment of Your Repository - What Does Success Look Like
+* Assessment of Your Repository - What Does Success Look Like
   * Volunteer?
-DSpace: When to Upgrade
+* DSpace: When to Upgrade
   * Volunteer?
