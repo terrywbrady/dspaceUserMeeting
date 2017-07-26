@@ -15,7 +15,7 @@ https://github.com/terrywbrady/info
 ---?include=md/contributingToDSpace.md
 ---?include=md/dspaceSecurity.md
 
----
++++
 ### Thank You!
 
 Terry Brady
