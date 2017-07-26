@@ -9,7 +9,6 @@ https://github.com/terrywbrady/info
 ![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
 
 ---?include=md/schedule.md
----?include=md/html/tuesday.md
 ---?include=md/dspaceIIIF.md
 ---?include=md/testingDSpace.md
 ---?include=md/customizedCollections.md
