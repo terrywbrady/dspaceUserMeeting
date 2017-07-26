@@ -4,4 +4,4 @@
 
 ### Tuesday 8/22
 
----?include=../html/tuesday.html
+---?include=html/tuesday.html
