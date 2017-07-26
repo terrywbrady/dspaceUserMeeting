@@ -1,6 +1,6 @@
-### DSpace and IIIF
+### Building Customized Collections in DSpace
 
-Suzanne Chase, Terry Brady
+(Suzanne, Salwa, Terry, ?)
 
 Georgetown University Library
 
@@ -11,7 +11,7 @@ http://www.library.georgetown.edu/lit
 ---
 ### Thank You!
 
-Suzanne Chase, Terry Brady
+(Suzanne, Salwa, Terry, ?)
 
 Georgetown University Library
 
