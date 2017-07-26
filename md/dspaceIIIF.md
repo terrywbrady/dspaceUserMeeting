@@ -1,5 +1,5 @@
 ---
-### DSpace and IIIF
+### DSpace North America User Meeting 2017 
 
 Terry Brady
 
