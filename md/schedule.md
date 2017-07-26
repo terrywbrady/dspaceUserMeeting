@@ -1,4 +1,7 @@
 ### DSpace User Meeting Schedule
 
-|a|b|c|
-|d|e|f|
++++
+
+### Tuesday 8/22
+
+---?include=../html/tuesday.html
