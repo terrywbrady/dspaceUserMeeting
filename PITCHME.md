@@ -8,6 +8,27 @@ https://github.com/terrywbrady/info
 
 ![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
 
++++
+
+### Welcome
+
+* Logistical Information
+  * Restrooms
+  * Wifi
+  * Vending
+  * Keep belongings in room
+
++++
+
+### Review Schedule
+
+* Schedule Review
+* Propose Changes/Additions?
+* Social Event Brainstorming
+* Breakout Tracks - Which is Your Interest?
+
++++
+
 ---?include=md/schedule.md
 ---?include=md/dspaceIIIF.md
 ---?include=md/testingDSpace.md
