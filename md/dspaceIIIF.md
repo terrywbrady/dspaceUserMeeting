@@ -1,6 +1,6 @@
 ### DSpace and IIIF
 
-Suzanne Chase, Terry Brady
+Suzanne Chase
 
 Georgetown University Library
 
@@ -58,7 +58,7 @@ http://www.library.georgetown.edu/lit
 
 ### Thank You!
 
-Suzanne Chase, Terry Brady
+Suzanne Chase
 
 Georgetown University Library
 
