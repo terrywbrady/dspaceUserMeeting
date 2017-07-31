@@ -67,8 +67,8 @@
   * Volunteer?
 * Contributing to DSpace  
   * Volunteer?
-* DSpace Security 
-  * Volunteer?
+* Digital Data Services 
+  * Kate Dohe and Ben Wallberg
 
 +++
 
