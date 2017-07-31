@@ -23,9 +23,9 @@
   * Zhongda Zhang
 * Question: DSpace 7.0 and local changes 
   * Question from George Kozak 
-  * Volunteer?
+  * Volunteer? <!-- .element: class="red"-->
 * Integrating with other Library Applications
-  * Volunteer?
+  * Volunteer? <!-- .element: class="red"-->
 
 +++
 
@@ -64,9 +64,9 @@
 
 * Question: Introduction to OAI 
   * Question from Nathan Fralick
-  * Volunteer?
+  * Volunteer? <!-- .element: class="red"-->
 * Contributing to DSpace  
-  * Volunteer?
+  * Volunteer? <!-- .element: class="red"-->
 * Digital Data Services 
   * Kate Dohe and Ben Wallberg
 
@@ -77,7 +77,7 @@
 * Managing and Displaying Complex Objects
   * Leah Prescott
 * DSpace Community - What do You Need?
-  * Volunteer?
+  * Volunteer? <!-- .element: class="red"-->
 * Promoting Your Repository
   * Salwa Ismail
 
@@ -88,6 +88,6 @@
 * Author Submission Policies and Practices
   * Maureen Walsh
 * Assessment of Your Repository - What Does Success Look Like
-  * Volunteer?
+  * Volunteer? <!-- .element: class="red"-->
 * DSpace: When to Upgrade
-  * Volunteer?
+  * Volunteer? <!-- .element: class="red"-->
