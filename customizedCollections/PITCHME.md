@@ -49,6 +49,7 @@ http://www.library.georgetown.edu/lit
 ```
 @[1](Theme is derived from the default Mirage2 theme)
 @[3-6](Custom Logo and Link)
+@[7](Disable Creation of Microtags for this Community)
 
 +++
 
@@ -158,6 +159,8 @@ http://www.library.georgetown.edu/lit
     </xsl:when>
 ```
 @[1-22](Set Collection Logo/Link Target)
+
++++
 
 ### Customized Summary Page
 
