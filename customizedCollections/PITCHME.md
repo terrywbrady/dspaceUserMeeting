@@ -200,7 +200,7 @@ http://www.library.georgetown.edu/lit
 ```
 @[1-11](Customize Field Label by Collection)
 +++
-
+Add Custom Field for a Collection
 ```
 <xsl:template name="itemSummaryView-DIM-custom">
   <xsl:choose>
@@ -223,7 +223,6 @@ http://www.library.georgetown.edu/lit
   </xsl:choose>
 </xsl:template>
 ```
-@[4](Add Custom Field for a Collection)
 +++
 ```
 <xsl:variable name="FILTER_SUBJECT">
