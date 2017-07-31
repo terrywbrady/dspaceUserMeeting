@@ -50,7 +50,7 @@ http://www.library.georgetown.edu/lit
 @[1](Theme is derived from the default Mirage2 theme)
 @[3-6](Custom Logo and Link)
 
-++++
++++
 
 ```
 <xsl:template name="guFooterText">
