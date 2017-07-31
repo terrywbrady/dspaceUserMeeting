@@ -27,8 +27,6 @@ https://github.com/terrywbrady/info
 * Social Event Brainstorming
 * Breakout Tracks - Which is Your Interest?
 
-+++
-
 ---?include=md/schedule.md
 ---?include=md/dspaceIIIF.md
 ---?include=md/testingDSpace.md
