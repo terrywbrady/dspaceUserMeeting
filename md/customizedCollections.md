@@ -1,6 +1,6 @@
 ### Building Customized Collections in DSpace
 
-(Suzanne, Salwa, Terry, ?)
+(Suzanne, Salwa, Terry, Steve)
 
 Georgetown University Library
 
@@ -11,7 +11,7 @@ http://www.library.georgetown.edu/lit
 +++
 ### Thank You!
 
-(Suzanne, Salwa, Terry, ?)
+(Suzanne, Salwa, Terry, Steve)
 
 Georgetown University Library
 
