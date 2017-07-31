@@ -27,7 +27,7 @@ https://github.com/terrywbrady/info
 * Social Event Brainstorming
 * Breakout Tracks - Which is Your Interest?
 
----?include=md/schedule.md
+---?include=schedule/PITCHME.md
 
 +++
 
@@ -54,11 +54,11 @@ Some quick brainstorming ideas
 * Track 2: Tour of Georgetown Digitization Lab and Booth Center for Special Collections
 
 
----?include=md/dspaceIIIF.md
----?include=md/testingDSpace.md
----?include=md/customizedCollections.md
----?include=md/contributingToDSpace.md
----?include=md/dspaceSecurity.md
+---?include=dspaceIIIF/PITCHME.md
+---?include=testingDSpace/PITCHME.md
+---?include=customizedCollections/PITCHME.md
+---?include=contributingToDSpace/PITCHME.md
+---?include=dspaceSecurity/PITCHME.md
 
 +++
 ### Thank You!
