@@ -69,6 +69,8 @@
   * Volunteer? <!-- .element: class="red"-->
 * Digital Data Services 
   * Kate Dohe and Ben Wallberg
+* DSpace Security  
+  * Volunteer? <!-- .element: class="red"-->
 
 +++
 

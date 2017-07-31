@@ -12,22 +12,32 @@ http://www.library.georgetown.edu/lit
 
 ### IIIF Overview
 
+* [IIIF Website](http://iiif.io/)
+
++++
+
+### IIIF and DSpace
+
+* [Wiki Page](https://wiki.duraspace.org/display/DSPACE/IIIF+and+DSpace)
+  * Conference calls every couple months
+* [Slack Channel](https://dspace-org.slack.com/messages/C4LVB5069)
+
 +++
 
 ### Georgetown's hopes for IIIF
 
-+++
-
-### IIIF at University of Maryland
-
-* (ask for volunteer)
+* [Prototype](https://wiki.duraspace.org/display/DSPACE/IIIF+Experimentation+at+Georgetown+-+June+2017)
+* Goals
+  * Facilitate new ways to share images
+  * Replace Document Viewer
+  * Show item relationships
 
 +++
 
 ### Other Institutions
 
-* Notes about other institutions
-* 4Science Module
+* [Notes from other institutions](https://wiki.duraspace.org/pages/viewpage.action?pageId=85525679)
+* [4Science Module](https://www.4science.it/en/iiif-image-viewer/)
 
 +++
 
