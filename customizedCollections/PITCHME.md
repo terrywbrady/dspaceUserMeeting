@@ -223,7 +223,7 @@ http://www.library.georgetown.edu/lit
   </xsl:choose>
 </xsl:template>
 ```
-@[4,8](Add Custom Field for a Collection)
+@[4](Add Custom Field for a Collection)
 +++
 ```
 <xsl:variable name="FILTER_SUBJECT">
