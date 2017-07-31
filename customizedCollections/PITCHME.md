@@ -131,7 +131,12 @@ http://www.library.georgetown.edu/lit
   </xsl:choose>
 </xsl:variable>
 ```    
-@[1-20](Set Microtag Properties)
+@[3](Set Microtag Properties by collection)
+@[4-6](Set Microtag Properties by collection)
+@[7-9](Set Microtag Properties by collection)
+@[10-12](Set Microtag Properties by collection)
+@[13-15](Set Microtag Properties by collection)
+@[16-18](Set Default Microtag Properties)
 
 +++
 ```
@@ -158,7 +163,9 @@ http://www.library.georgetown.edu/lit
       </xsl:call-template>
     </xsl:when>
 ```
-@[1-22](Set Collection Logo/Link Target)
+@[3-8](Set Collection Logo)
+@[9-14](Set Collection Logo)
+@[15-22](Set Collection Logo/Link Target)
 
 +++
 
@@ -213,7 +220,7 @@ http://www.library.georgetown.edu/lit
       </xsl:if>
       ...
 ```
-@[1-16](Add Custom Field for a Collection)
+@[4,8](Add Custom Field for a Collection)
 +++
 ```
 <xsl:variable name="FILTER_SUBJECT">
