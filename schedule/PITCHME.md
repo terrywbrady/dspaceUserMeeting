@@ -17,6 +17,14 @@
 
 +++
 
+### Welcome, Introduction
+
++++
+
+### Development of the New DSpace 7 User Interface, Tim Donohue
+
++++
+
 ### Lightning Talks 1 (Tuesday PM)
 
 * Data migration from DSpace 5 to Dspace 6
@@ -60,6 +68,13 @@
 
 +++
 
+### Building Customized Collections in DSpace
+
+* [Building Customized Collections in DSpace - Challenges and Impact](?p=customizedCollections)
+  * Georgetown Library Information Technology Team
+
++++
+
 ### Lightning Talks 2 (Wednesday AM)
 
 * Question: Introduction to OAI 
@@ -83,6 +98,14 @@
 * Promoting Your Repository
   * Salwa Ismail
 
++++
+
+### Breakouts
+* Track 1
+  * Tutorial: Developing with the Angular 2 Framework
+* Track 2
+  * Tour of Georgetown Digitization Lab and Booth Center for Special Collections
+  
 +++
 
 ### Discussion 3 (Wednesday PM)
