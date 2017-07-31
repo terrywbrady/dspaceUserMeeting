@@ -218,7 +218,10 @@ http://www.library.georgetown.edu/lit
           </span>
         </div>
       </xsl:if>
-      ...
+    </xsl:when>
+    <!-- ... more cases -->
+  </xsl:choose>
+</xsl:template>
 ```
 @[4,8](Add Custom Field for a Collection)
 +++
