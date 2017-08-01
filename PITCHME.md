@@ -21,9 +21,9 @@ Georgetown University Library
 ### Review Schedule
 
 * Schedule Review
-* Propose Changes/Additions?
 * Breakout Tracks - Which is Your Interest?
-* Social Event Brainstorming
+* Propose Changes/Additions?
+* Social Event Brainstorming 
 
 +++?include=schedule/tuesday.md
 +++?include=schedule/wednesday.md

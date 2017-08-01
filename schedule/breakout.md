@@ -4,3 +4,5 @@
   * Tutorial: Developing with the Angular 2 Framework
 * Track 2
   * Tour of Georgetown Digitization Lab and Booth Center for Special Collections
+
+Which Section Will You Attend? <!-- .element: class="red"-->
