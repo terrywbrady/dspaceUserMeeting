@@ -2,7 +2,7 @@
 
 * [Meeting Information](https://www.library.georgetown.edu/node/19724)
 * [Have a topic idea?](https://docs.google.com/a/georgetown.edu/forms/d/e/1FAIpQLSev8m6pJWaun6Mn0QKupXDZByJfigsEMxkMPZ8nGEgOf_YPyw/viewform)
-* [Meeting Slides](?p=)
+* [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/dspaceUserMeeting?grs=github&t=white)
 
 Several Topic ideas need a Volunteer Facilitator <!-- .element: class="red"-->
 * [Contact Us](mailto:digitalscholarship@georgetown.edu) if you would like to facilitate a session
