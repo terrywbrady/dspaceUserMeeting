@@ -1,10 +1,8 @@
 ### DSpace North America User Meeting 2017 
 
-Terry Brady
-
 Georgetown University Library
 
-https://github.com/terrywbrady/info
+* [Meeting Information](https://www.library.georgetown.edu/node/19724)
 
 ![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
 
@@ -24,10 +22,12 @@ https://github.com/terrywbrady/info
 
 * Schedule Review
 * Propose Changes/Additions?
-* Social Event Brainstorming
 * Breakout Tracks - Which is Your Interest?
+* Social Event Brainstorming
 
----?include=schedule/PITCHME.md
++++?include=schedule/tuesday.md
++++?include=schedule/wednesday.md
++++?include=schedule/breakout.md
 
 +++
 
@@ -37,21 +37,9 @@ https://github.com/terrywbrady/info
 
 +++?include=schedule/social.md
 
-+++?include=schedule/breakout.md
-
 ---?include=dspaceIIIF/PITCHME.md
 ---?include=testingDSpace/PITCHME.md
 ---?include=customizedCollections/PITCHME.md
 ---?include=contributingToDSpace/PITCHME.md
 ---?include=dspaceSecurity/PITCHME.md
 
-+++
-### Thank You!
-
-Terry Brady
-
-Georgetown University Library
-
-http://www.github.com/terrywbrady/info
-
-![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
