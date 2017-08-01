@@ -243,7 +243,7 @@ The following collection supports item descriptions written in Markdown.
 
 The collection theme links out to a custom glossary.
 
-* [https://repository.library.georgetown.edu/handle/10822/1043014](DC Historic Preservation Law)
+* [DC Historic Preservation Law](https://repository.library.georgetown.edu/handle/10822/1043014)
 
 +++
 

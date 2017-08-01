@@ -41,9 +41,9 @@
 
 * The Tradeoffs of Maintaining Multiple Platforms or Converging on One Repo to Rule Them All
   * Kate Dohe and Ben Wallberg
-* DSpace and IIIF 
+* [DSpace and IIIF](?p=dspaceIIIF/PITCHME.md) 
   * Suzanne Chase
-* Testing DSpace
+* [Testing DSpace](?p=testingDSpace/PITCHME.md)
   * Terry Brady 
 
 
