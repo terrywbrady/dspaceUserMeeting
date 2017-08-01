@@ -1,6 +1,6 @@
 ### Building Customized Collections in DSpace
 
-(Suzanne, Salwa, Terry, Steve)
+(Suzanne Chase, Salwa Ismail, Terry Brady, Steve?, Leah?)
 
 Georgetown University Library
 
@@ -10,7 +10,15 @@ http://www.library.georgetown.edu/lit
 
 +++
 
-### Community Themes
+### DigitalGeorgetown Theme Variations
+* 51 Theme Variations 
+  * Logos
+  * Custom Item Summary Pages
+* 14 Custom Facets
+
++++
+
+### 5 Major Community Themes
 
 * [Default Theme](https://repository.library.georgetown.edu/)
 * [IR Theme](https://repository.library.georgetown.edu/handle/10822/1)
@@ -85,10 +93,10 @@ http://www.library.georgetown.edu/lit
 
 ### Collection Themes
 
-* Custom Logos
+* Custom Logos 
 * Custom Help Pages
 * Customized Summary Page
-* Custom Facets
+* Custom Facets 
 
 +++
 ```
@@ -261,7 +269,7 @@ The collection theme links out to a custom glossary.
 
 ### Thank You!
 
-(Suzanne, Salwa, Terry, Steve)
+(Suzanne, Salwa, Terry)
 
 Georgetown University Library
 
