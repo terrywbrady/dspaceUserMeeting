@@ -4,28 +4,7 @@
 * [Have a topic idea?](https://docs.google.com/a/georgetown.edu/forms/d/e/1FAIpQLSev8m6pJWaun6Mn0QKupXDZByJfigsEMxkMPZ8nGEgOf_YPyw/viewform)
 * [Meeting Slides](https://gitpitch.com/terrywbrady/dspaceUserMeeting?grs=github&t=white)
 
-+++?include=schedule/tuesday.md
-+++?include=schedule/wednesday.md
-
-+++
-
-### Lightning Talks
-
-* Presentation will be timed and limited to 10 minutes
-* An additional 5 minutes for A/V setup and audience questions
-
-+++
-
-### Discussion Topics
-
-* Discussion sessions will be 20 minutes
-* Facilitator may start with an optional 5 minute presentation to start the conversation
-
 ---?include=schedule/tuesday.md
-
-+++
-
-### Welcome, Introduction
 
 +++
 
@@ -102,3 +81,18 @@
   * [Volunteer Requested](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 * DSpace: When to Upgrade
   * [Volunteer Requested](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
+
+---
+
+### Lightning Talks
+
+* Presentation will be timed and limited to 10 minutes
+* An additional 5 minutes for A/V setup and audience questions
+
++++
+
+### Discussion Topics
+
+* Discussion sessions will be 20 minutes
+* Facilitator may start with an optional 5 minute presentation to start the conversation
+  
