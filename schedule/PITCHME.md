@@ -20,6 +20,8 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Facilitat
   * Kate Dohe and Ben Wallberg
 * Talk: Data migration from DSpace 5 to Dspace 6
   * Zhongda Zhang
+* Symplectic Elements at Virginia Tech
+  * Anne Lawrence
 * Contributing to DSpace  
   * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 
@@ -63,7 +65,7 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Facilitat
 * Discussion: Managing and Displaying Complex Objects
   * Leah Prescott
 * Discussion: DSpace Community - What do You Need?
-  * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
+  * Anne Lawrence
 * Discussion: Promoting Your Repository
   * Salwa Ismail
 
