@@ -35,24 +35,9 @@ https://github.com/terrywbrady/info
 
 * Any additional discussion topics?
 
-+++
++++?include=schedule/social.md
 
-### Social Event Brainstorming
-
-Some quick brainstorming ideas
-
-* Georgetown Waterfront - Walk and Dinner
-* Walking Tour of National Mall
-* [Free Concert at Kennedy Center](http://www.kennedy-center.org/Video/Performance/63406)
-* Dinner in Clarendon
-
-+++
-
-### Breakout - Which Are You Likely to Attend?
-
-* Track 1: Tutorial: Developing with the Angular 2 Framework
-* Track 2: Tour of Georgetown Digitization Lab and Booth Center for Special Collections
-
++++?include=schedule/breakout.md
 
 ---?include=dspaceIIIF/PITCHME.md
 ---?include=testingDSpace/PITCHME.md

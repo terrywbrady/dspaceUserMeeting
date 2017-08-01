@@ -17,6 +17,8 @@
 * Presentation will be timed and limited to 10 minutes
 * An additional 5 minutes for A/V setup and audience questions
 
++++
+
 ### Discussion Topics
 
 * Discussion sessions will be 20 minutes
@@ -55,6 +57,8 @@
 * [Testing DSpace](?p=testingDSpace)
   * Terry Brady 
 
++++?include=schedule/social.md
+
 ---?include=schedule/wednesday.md
 
 +++
@@ -89,13 +93,7 @@
 * Promoting Your Repository
   * Salwa Ismail
 
-+++
-
-### Breakouts
-* Track 1
-  * Tutorial: Developing with the Angular 2 Framework
-* Track 2
-  * Tour of Georgetown Digitization Lab and Booth Center for Special Collections
++++?include=schedule/breakout.md
   
 +++
 
