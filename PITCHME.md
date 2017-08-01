@@ -37,6 +37,7 @@ Georgetown University Library
 
 +++?include=schedule/social.md
 
+---?include=schedule/PITCHME.md
 ---?include=dspaceIIIF/PITCHME.md
 ---?include=testingDSpace/PITCHME.md
 ---?include=customizedCollections/PITCHME.md
