@@ -3,6 +3,8 @@
 * [Meeting Information](https://www.library.georgetown.edu/node/19724)
 * [Have a topic idea?](https://docs.google.com/a/georgetown.edu/forms/d/e/1FAIpQLSev8m6pJWaun6Mn0QKupXDZByJfigsEMxkMPZ8nGEgOf_YPyw/viewform)
 * [Meeting Slides](https://gitpitch.com/terrywbrady/dspaceUserMeeting?grs=github&t=white)
+* Interested in Facilitating a Session?
+  * Look for "Volunteer Requested" fo find a session<!-- .element: class="red" -->
 
 ---?include=schedule/tuesday.md
 
