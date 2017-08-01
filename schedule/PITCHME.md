@@ -20,9 +20,9 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Needed" f
   * Zhongda Zhang
 * Question: DSpace 7.0 and local changes 
   * Question from George Kozak 
-  * [Volunteer Requested](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
+  * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 * Integrating with other Library Applications
-  * [Volunteer Requested](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
+  * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 
 +++
 
@@ -52,13 +52,13 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Needed" f
 
 * Question: Introduction to OAI 
   * Question from Nathan Fralick
-  * [Volunteer Requested](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
+  * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 * Digital Data Services 
   * Kate Dohe and Ben Wallberg
 * Bot Maintenance
   * Shana Wagger
 * Contributing to DSpace  
-  * [Volunteer Requested](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
+  * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 
 +++
 
@@ -67,7 +67,7 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Needed" f
 * Managing and Displaying Complex Objects
   * Leah Prescott
 * DSpace Community - What do You Need?
-  * [Volunteer Requested](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
+  * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 * Promoting Your Repository
   * Salwa Ismail
 
@@ -80,9 +80,9 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Needed" f
 * Author Submission Policies and Practices
   * Maureen Walsh
 * Assessment of Your Repository - What Does Success Look Like
-  * [Volunteer Requested](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
+  * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 * DSpace: When to Upgrade
-  * [Volunteer Requested](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
+  * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 
 ---
 
