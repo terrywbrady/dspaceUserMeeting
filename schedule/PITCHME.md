@@ -4,7 +4,7 @@
 * [Have a topic idea?](https://docs.google.com/a/georgetown.edu/forms/d/e/1FAIpQLSev8m6pJWaun6Mn0QKupXDZByJfigsEMxkMPZ8nGEgOf_YPyw/viewform)
 * [Meeting Slides](https://gitpitch.com/terrywbrady/dspaceUserMeeting?grs=github&t=white)
 
-We hope to have many voices leading our sessions.  Look for "Volunteer Needed" for available sessions.
+We hope to have many voices leading our sessions.  Look for "Volunteer Facilitator Needed" for sessions seeking a facilitator.
 
 ---?include=schedule/tuesday.md
 
@@ -16,12 +16,11 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Needed" f
 
 ### Lightning Talks 1 (Tuesday PM)
 
-* Data migration from DSpace 5 to Dspace 6
+* Talk: Digital Data Services 
+  * Kate Dohe and Ben Wallberg
+* Talk: Data migration from DSpace 5 to Dspace 6
   * Zhongda Zhang
-* Question: DSpace 7.0 and local changes 
-  * Question from George Kozak 
-  * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
-* Integrating with other Library Applications
+* Contributing to DSpace  
   * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 
 +++
@@ -48,40 +47,37 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Needed" f
 
 +++
 
-### Lightning Talks 2 (Wednesday AM)
+### Questions/Discussion 2 (Wednesday AM)
 
 * Question: Introduction to OAI 
   * Question from Nathan Fralick
-  * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
-* Digital Data Services 
-  * Kate Dohe and Ben Wallberg
-* Bot Maintenance
+* Question: DSpace 7.0 and local changes 
+  * Question from George Kozak 
+* Discussion: Bot Maintenance
   * Shana Wagger
-* Contributing to DSpace  
-  * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 
 +++
 
-### Discussion 2 (Wednesday AM)
+### Discussion 3 (Wednesday AM)
 
-* Managing and Displaying Complex Objects
+* Discussion: Managing and Displaying Complex Objects
   * Leah Prescott
-* DSpace Community - What do You Need?
+* Discussion: DSpace Community - What do You Need?
   * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
-* Promoting Your Repository
+* Discussion: Promoting Your Repository
   * Salwa Ismail
 
 +++?include=schedule/breakout.md
   
 +++
 
-### Discussion 3 (Wednesday PM)
+### Discussion 4 (Wednesday PM)
 
-* Author Submission Policies and Practices
+* Discussion: Author Submission Policies and Practices
   * Maureen Walsh
-* Assessment of Your Repository - What Does Success Look Like
+* Discussion: Assessment of Your Repository - What Does Success Look Like
   * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
-* DSpace: When to Upgrade
+* Discussion: DSpace: When to Upgrade
   * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 
 ---
