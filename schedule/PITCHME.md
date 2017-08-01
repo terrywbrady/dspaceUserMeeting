@@ -4,9 +4,6 @@
 * [Have a topic idea?](https://docs.google.com/a/georgetown.edu/forms/d/e/1FAIpQLSev8m6pJWaun6Mn0QKupXDZByJfigsEMxkMPZ8nGEgOf_YPyw/viewform)
 * [Meeting Slides](https://gitpitch.com/terrywbrady/dspaceUserMeeting?grs=github&t=white)
 
-Several Topic ideas need a Volunteer Facilitator <!-- .element: class="red"-->
-* [Contact Us if you would like to facilitate](mailto:digitalscholarship@georgetown.edu)
-
 +++?include=schedule/tuesday.md
 +++?include=schedule/wednesday.md
 
@@ -42,9 +39,9 @@ Several Topic ideas need a Volunteer Facilitator <!-- .element: class="red"-->
   * Zhongda Zhang
 * Question: DSpace 7.0 and local changes 
   * Question from George Kozak 
-  * Volunteer? <!-- .element: class="red"-->
+  * [Contact Us if you would like to facilitate this session](mailto:digitalscholarship@georgetown.edu)? <!-- .element: class="red"-->
 * Integrating with other Library Applications
-  * Volunteer? <!-- .element: class="red"-->
+  * [Contact Us if you would like to facilitate this session](mailto:digitalscholarship@georgetown.edu)? <!-- .element: class="red"-->
 
 +++
 
@@ -74,13 +71,13 @@ Several Topic ideas need a Volunteer Facilitator <!-- .element: class="red"-->
 
 * Question: Introduction to OAI 
   * Question from Nathan Fralick
-  * Volunteer? <!-- .element: class="red"-->
+  * [Contact Us if you would like to facilitate this session](mailto:digitalscholarship@georgetown.edu)? <!-- .element: class="red"-->
 * Contributing to DSpace  
-  * Volunteer? <!-- .element: class="red"-->
+  * [Contact Us if you would like to facilitate this session](mailto:digitalscholarship@georgetown.edu)? <!-- .element: class="red"-->
 * Digital Data Services 
   * Kate Dohe and Ben Wallberg
 * DSpace Security  
-  * Volunteer? <!-- .element: class="red"-->
+  * [Contact Us if you would like to facilitate this session](mailto:digitalscholarship@georgetown.edu)? <!-- .element: class="red"-->
 
 +++
 
@@ -89,7 +86,7 @@ Several Topic ideas need a Volunteer Facilitator <!-- .element: class="red"-->
 * Managing and Displaying Complex Objects
   * Leah Prescott
 * DSpace Community - What do You Need?
-  * Volunteer? <!-- .element: class="red"-->
+  * [Contact Us if you would like to facilitate this session](mailto:digitalscholarship@georgetown.edu)? <!-- .element: class="red"-->
 * Promoting Your Repository
   * Salwa Ismail
 
@@ -102,6 +99,6 @@ Several Topic ideas need a Volunteer Facilitator <!-- .element: class="red"-->
 * Author Submission Policies and Practices
   * Maureen Walsh
 * Assessment of Your Repository - What Does Success Look Like
-  * Volunteer? <!-- .element: class="red"-->
+  * [Contact Us if you would like to facilitate this session](mailto:digitalscholarship@georgetown.edu)? <!-- .element: class="red"-->
 * DSpace: When to Upgrade
-  * Volunteer? <!-- .element: class="red"-->
+  * [Contact Us if you would like to facilitate this session](mailto:digitalscholarship@georgetown.edu)? <!-- .element: class="red"-->
