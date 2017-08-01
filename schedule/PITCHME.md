@@ -93,4 +93,5 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Facilitat
 
 * Discussion sessions will be 20 minutes
 * Facilitator may start with an optional 5 minute presentation to start the conversation
+* Some discussion topics are questions from attendees about DSpace
   
