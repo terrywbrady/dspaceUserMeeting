@@ -53,11 +53,11 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Needed" f
 * Question: Introduction to OAI 
   * Question from Nathan Fralick
   * [Volunteer Requested](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
-* Contributing to DSpace  
-  * [Volunteer Requested](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 * Digital Data Services 
   * Kate Dohe and Ben Wallberg
-* DSpace Security  
+* Bot Maintenance
+  * Shana Wagger
+* Contributing to DSpace  
   * [Volunteer Requested](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 
 +++
