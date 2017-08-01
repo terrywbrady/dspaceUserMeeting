@@ -4,8 +4,8 @@
 * [Have a topic idea?](https://docs.google.com/a/georgetown.edu/forms/d/e/1FAIpQLSev8m6pJWaun6Mn0QKupXDZByJfigsEMxkMPZ8nGEgOf_YPyw/viewform)
 * [Meeting Slides](https://gitpitch.com/terrywbrady/dspaceUserMeeting?grs=github&t=white)
 
-+++?include=tuesday.md
-+++?include=wednesday.md
++++?include=schedule/tuesday.md
++++?include=schedule/wednesday.md
 
 +++
 
@@ -21,7 +21,7 @@
 * Discussion sessions will be 20 minutes
 * Facilitator may start with an optional 5 minute presentation to start the conversation
 
----?include=tuesday.md
+---?include=schedule/tuesday.md
 
 +++
 
@@ -54,9 +54,9 @@
 * [Testing DSpace](?p=testingDSpace)
   * Terry Brady 
 
-+++?include=social.md
++++?include=schedule/social.md
 
----?include=wednesday.md
+---?include=schedule/wednesday.md
 
 +++
 
@@ -90,7 +90,7 @@
 * Promoting Your Repository
   * Salwa Ismail
 
-+++?include=breakout.md
++++?include=schedule/breakout.md
   
 +++
 

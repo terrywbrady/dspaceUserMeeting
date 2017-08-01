@@ -37,10 +37,11 @@ Georgetown University Library
 
 +++?include=schedule/social.md
 
----?include=schedule/PITCHME.md
----?include=dspaceIIIF/PITCHME.md
----?include=testingDSpace/PITCHME.md
----?include=customizedCollections/PITCHME.md
----?include=contributingToDSpace/PITCHME.md
----?include=dspaceSecurity/PITCHME.md
+### Linked Presentations
+* [Schedule](?p=schedule)
+* [DSpace and IIIF](?p=dspaceIIIF)
+* [Testing DSpace](?p=testingDSpace)
+* [Customized Collections](?p=customizedCollections)
+* [Contributing to DSpace](?p=contributingToDSpace)
+* [DSpace Security](?p=dspaceSecurity)
 
