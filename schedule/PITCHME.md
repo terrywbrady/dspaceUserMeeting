@@ -7,9 +7,22 @@
 ![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
 
 
-+++?include=tuesday.md
-+++?include=wednesday.md
----?include=tuesday.md
++++?include=schedule/tuesday.md
++++?include=schedule/wednesday.md
+
++++
+
+### Lightning Talks
+
+* Presentation will be timed and limited to 10 minutes
+* An additional 5 minutes for A/V setup and audience questions
+
+### Discussion Topics
+
+* Discussion sessions will be 20 minutes
+* Facilitator may start with an optional 5 minute presentation to start the conversation
+
+---?include=schedule/tuesday.md
 
 +++
 
@@ -42,7 +55,7 @@
 * [Testing DSpace](?p=testingDSpace)
   * Terry Brady 
 
----?include=wednesday.md
+---?include=schedule/wednesday.md
 
 +++
 
