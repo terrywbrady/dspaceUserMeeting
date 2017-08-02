@@ -84,8 +84,15 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Facilitat
 
 +++
 
-### Other Ideas / Not Scheduled
-
+### Other Ideas / Not Yet Scheduled
+* Talk: Advocating for DSpace when choosing between systems
+  * Tom Hutchinson
+* Discussion: DSpace for Beginners
+  * Tom Hutchinson
+* Question: DSpace metadata and associated presentation
+  * Tom Hutchinson
+* Question: DSpace Customization (with minimal development)
+  * Tom Hutchinson
 
 ---
 
