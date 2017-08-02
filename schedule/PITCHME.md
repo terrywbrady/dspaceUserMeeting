@@ -22,8 +22,8 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Facilitat
   * Zhongda Zhang
 * Symplectic Elements at Virginia Tech
   * Anne Lawrence
-* Contributing to DSpace  
-  * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
+* Talk: Advocating for DSpace when choosing between systems
+  * Tom Hutchinson
 
 +++
 
@@ -31,10 +31,10 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Facilitat
 
 * The Tradeoffs of Maintaining Multiple Platforms or Converging on One Repo to Rule Them All
   * Kate Dohe and Ben Wallberg
-* [DSpace and IIIF](?p=dspaceIIIF) 
+* [DSpace and IIIF](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=dspaceIIIF) 
   * Suzanne Chase
-* [Testing DSpace](?p=testingDSpace)
-  * Terry Brady 
+* Discussion: DSpace for Beginners
+  * Tom Hutchinson
 
 +++?include=schedule/social.md
 
@@ -44,7 +44,7 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Facilitat
 
 ### Building Customized Collections in DSpace
 
-* [Building Customized Collections in DSpace - Challenges and Impact](?p=customizedCollections)
+* [Building Customized Collections in DSpace - Challenges and Impact](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=customizedCollections)
   * Georgetown Library Information Technology Team
 
 +++
@@ -85,14 +85,16 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Facilitat
 +++
 
 ### Other Ideas / Not Yet Scheduled
-* Talk: Advocating for DSpace when choosing between systems
-  * Tom Hutchinson
-* Discussion: DSpace for Beginners
-  * Tom Hutchinson
 * Question: DSpace metadata and associated presentation
   * Tom Hutchinson
+  * Covered by "Managing and Displaying Complex Objects"?
 * Question: DSpace Customization (with minimal development)
   * Tom Hutchinson
+  * Covered by "Building Customized Collections in DSpace - Challenges and Impact"?
+* Contributing to DSpace  
+  * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
+* [Testing DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=testingDSpace)
+  * Terry Brady 
 
 ---
 
