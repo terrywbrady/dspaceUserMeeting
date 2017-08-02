@@ -82,6 +82,11 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Facilitat
 * Discussion: DSpace: When to Upgrade
   * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 
++++
+
+### Other Ideas / Not Scheduled
+
+
 ---
 
 ### Lightning Talks
@@ -96,4 +101,11 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Facilitat
 * Discussion sessions will be 20 minutes
 * Facilitator may start with an optional 5 minute presentation to start the conversation
 * Some discussion topics are questions from attendees about DSpace
+
++++
   
+### A/V Details
+
+* The conference room has a computer, projector, and internet connection
+* If possible, please share your presentation files with Terry for use on the conference computer
+* If you would like to use your own laptop, HDMI and VGA inputs are available
