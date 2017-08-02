@@ -40,10 +40,10 @@ Georgetown University Library
 +++
 
 ### Linked Presentations
-* [Schedule](?p=schedule)
-* [DSpace and IIIF](?p=dspaceIIIF)
-* [Testing DSpace](?p=testingDSpace)
-* [Customized Collections](?p=customizedCollections)
-* [Contributing to DSpace](?p=contributingToDSpace)
-* [DSpace Security](?p=dspaceSecurity)
+* [Schedule](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=schedule)
+* [DSpace and IIIF](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=dspaceIIIF)
+* [Testing DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=testingDSpace)
+* [Customized Collections](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=customizedCollections)
+* [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)
+* [DSpace Security](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=dspaceSecurity)
 
