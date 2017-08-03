@@ -23,7 +23,7 @@
   * Zhongda Zhang, U of Oklahoma
 * Talk: Symplectic Elements at Virginia Tech
   * Anne Lawrence, Virginia Tech
-* Talk: Advocating for DSpace when choosing between systems
+* Talk: Advocating for DSpace When Choosing between Systems
   * Tom Hutchinson, Swarthmore
 
 +++
@@ -46,7 +46,7 @@
 ### Building Customized Collections in DSpace
 
 * [Building Customized Collections in DSpace - Challenges and Impact](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=customizedCollections)
-  * Georgetown Library Information Technology Team
+  * Georgetown Library / Law Library
 
 +++
 
@@ -54,7 +54,7 @@
 
 * Question: Introduction to OAI 
   * Question from Nathan Fralick, Allegheny
-* Question: DSpace 7.0 and local changes 
+* Question: DSpace 7.0 and Local Changes 
   * Question from George Kozak, Cornell 
 * Discussion: Bot Maintenance
   * Shana Wagger, World Bank
