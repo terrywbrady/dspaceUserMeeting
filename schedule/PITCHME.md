@@ -30,9 +30,9 @@
 
 ### Discussion 1 (Tuesday PM)
 
-* The Tradeoffs of Maintaining Multiple Platforms or Converging on One Repo to Rule Them All
+* Discussion: The Tradeoffs of Maintaining Multiple Platforms or Converging on One Repo to Rule Them All
   * Kate Dohe and Ben Wallberg, U of Maryland
-* [DSpace and IIIF](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=dspaceIIIF) 
+* Discussion: [DSpace and IIIF](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=dspaceIIIF) 
   * Suzanne Chase, Georgetown
 * Discussion: DSpace for Beginners
   * Tom Hutchinson, Swarthmore
@@ -80,7 +80,7 @@
   * Maureen Walsh, Ohio State
 * Discussion: Assessment of Your Repository - What Does Success Look Like
   * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
-* [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)  
+* Discussion: [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)  
   * Terry Brady, Georgetown
 
 +++
