@@ -21,7 +21,7 @@
   * Kate Dohe and Ben Wallberg, U of Maryland
 * Talk: Data migration from DSpace 5 to Dspace 6
   * Zhongda Zhang, U of Oklahoma
-* Symplectic Elements at Virginia Tech
+* Talk: Symplectic Elements at Virginia Tech
   * Anne Lawrence, Virginia Tech
 * Talk: Advocating for DSpace when choosing between systems
   * Tom Hutchinson, Swarthmore
