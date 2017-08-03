@@ -1,12 +1,14 @@
 ### Talk: Building Customized Collections in DSpace
 
-(Suzanne Chase, Salwa Ismail, Terry Brady, Leah Prescott)
+Suzanne Chase, Salwa Ismail, Leah Prescott, Terry Brady
 
-Georgetown University Library & Georgetown Law Library
+Georgetown University Library
+Georgetown Law Library
 
 http://www.library.georgetown.edu/lit
 
 ![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
+![](https://repository.library.georgetown.edu/themes/law-lib//images/gull_logo.jpg)
 
 +++
 
@@ -269,10 +271,12 @@ The collection theme links out to a custom glossary.
 
 ### Thank You!
 
-(Suzanne, Salwa, Terry)
+Suzanne Chase, Salwa Ismail, Leah Prescott, Terry Brady
 
 Georgetown University Library
+Georgetown Law Library
 
 http://www.library.georgetown.edu/lit
 
 ![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
+![](https://repository.library.georgetown.edu/themes/law-lib//images/gull_logo.jpg)
