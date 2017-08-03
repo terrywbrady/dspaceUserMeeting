@@ -3,9 +3,8 @@
 Suzanne Chase, Salwa Ismail, Leah Prescott, Terry Brady
 
 Georgetown University Library
-Georgetown Law Library
 
-http://www.library.georgetown.edu/lit
+Georgetown Law Library
 
 ![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
 ![](https://repository.library.georgetown.edu/themes/law-lib//images/gull_logo.jpg)
@@ -275,8 +274,6 @@ Suzanne Chase, Salwa Ismail, Leah Prescott, Terry Brady
 
 Georgetown University Library
 Georgetown Law Library
-
-http://www.library.georgetown.edu/lit
 
 ![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
 ![](https://repository.library.georgetown.edu/themes/law-lib//images/gull_logo.jpg)
