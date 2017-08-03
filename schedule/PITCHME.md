@@ -1,7 +1,6 @@
 ### DSpace North American User Meeting Schedule
 
 * [Meeting Information](https://www.library.georgetown.edu/node/19724)
-* [Have a topic idea?](https://docs.google.com/a/georgetown.edu/forms/d/e/1FAIpQLSev8m6pJWaun6Mn0QKupXDZByJfigsEMxkMPZ8nGEgOf_YPyw/viewform)
 * [Meeting Slides](https://gitpitch.com/terrywbrady/dspaceUserMeeting?grs=github&t=white)
 
 ---?include=schedule/tuesday.md
