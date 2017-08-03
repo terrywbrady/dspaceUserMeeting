@@ -79,23 +79,15 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Facilitat
   * Maureen Walsh
 * Discussion: Assessment of Your Repository - What Does Success Look Like
   * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
-* Discussion: DSpace: When to Upgrade
+* [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)  
   * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 
 +++
 
 ### Other Ideas / Not Yet Scheduled
-* Question: DSpace metadata and associated presentation
-  * Tom Hutchinson
-  * Covered by "Managing and Displaying Complex Objects"?
-* Question: DSpace Customization (with minimal development)
-  * Tom Hutchinson
-  * Covered by "Building Customized Collections in DSpace - Challenges and Impact"?
-* Contributing to DSpace  
-  * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
-* [Testing DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=testingDSpace)
-  * Terry Brady 
-
+* Discussion: DSpace: When to Upgrade
+* Testing DSpace
+ 
 ---
 
 ### Lightning Talks

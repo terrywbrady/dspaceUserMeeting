@@ -1,4 +1,4 @@
-### Contributing to DSpace
+### Discussion: Contributing to DSpace
 
 Terry Brady
 

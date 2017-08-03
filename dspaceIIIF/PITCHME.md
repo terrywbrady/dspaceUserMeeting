@@ -1,4 +1,4 @@
-### DSpace and IIIF
+### Discussion: DSpace and IIIF
 
 Suzanne Chase
 

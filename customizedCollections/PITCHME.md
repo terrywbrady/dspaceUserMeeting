@@ -1,8 +1,8 @@
-### Building Customized Collections in DSpace
+### Talk: Building Customized Collections in DSpace
 
-(Suzanne Chase, Salwa Ismail, Terry Brady, Steve?, Leah?)
+(Suzanne Chase, Salwa Ismail, Terry Brady, Leah Prescott)
 
-Georgetown University Library
+Georgetown University Library & Georgetown Law Library
 
 http://www.library.georgetown.edu/lit
 
