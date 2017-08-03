@@ -4,8 +4,6 @@
 * [Have a topic idea?](https://docs.google.com/a/georgetown.edu/forms/d/e/1FAIpQLSev8m6pJWaun6Mn0QKupXDZByJfigsEMxkMPZ8nGEgOf_YPyw/viewform)
 * [Meeting Slides](https://gitpitch.com/terrywbrady/dspaceUserMeeting?grs=github&t=white)
 
-We hope to have many voices leading our sessions.  Look for "Volunteer Facilitator Needed" for sessions seeking a facilitator.
-
 ---?include=schedule/tuesday.md
 
 +++
