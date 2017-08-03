@@ -6,8 +6,6 @@ Georgetown University Library
 
 https://github.com/terrywbrady/info
 
-![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
-
 +++
 
 ### Communication Tools
@@ -110,8 +108,5 @@ What are your ideas for getting involved with DSpace?
 
 Terry Brady
 
-Georgetown University Library
-
 http://www.github.com/terrywbrady/info
 
-![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
