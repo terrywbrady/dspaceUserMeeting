@@ -14,7 +14,7 @@ Georgetown University Library
   * Restrooms
   * Wifi
   * Vending
-  * Keep belongings in room
+  * Meeting Room Logistics
 
 +++
 
