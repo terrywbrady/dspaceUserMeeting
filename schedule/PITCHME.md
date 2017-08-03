@@ -80,7 +80,7 @@ We hope to have many voices leading our sessions.  Look for "Volunteer Facilitat
 * Discussion: Assessment of Your Repository - What Does Success Look Like
   * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
 * [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)  
-  * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
+  * Terry Brady
 
 +++
 
