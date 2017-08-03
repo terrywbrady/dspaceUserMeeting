@@ -46,6 +46,7 @@ https://github.com/terrywbrady/info
 * [DSpace 7 Working Group Meetings](https://wiki.duraspace.org/display/DSPACE/DSpace+7+Working+Group) - Thursday morning
 * [DSpace Community Advisory Team Meeting](https://wiki.duraspace.org/display/cmtygp/DCAT+Meeting+Notes) - 2nd Tuesday AM
 * Others?
++++
 
 ### Documentation
 
