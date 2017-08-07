@@ -14,6 +14,7 @@ https://github.com/terrywbrady/info
 
 * Friendly community
   * Most of us are on small DSpace teams
+  * Support conversations are done in open forums 
 * Limited bandwidth - sometimes questions are missed
 * No response?  Try again
 
@@ -39,7 +40,6 @@ https://github.com/terrywbrady/info
 +++
 
 ### Slack/IRC Channels - Realtime Chat
- #general, #tech-support, #angular-ui, #rest-api
 * [Register for DSpace Slack](https://wiki.duraspace.org/display/DSPACE/Slack )
 * [#general](https://dspace-org.slack.com/messages/C3N0VHT6K)
 * [#tech-support](https://dspace-org.slack.com/messages/C3V628QNN)
