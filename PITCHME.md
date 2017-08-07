@@ -6,13 +6,15 @@ Georgetown University Library
 
 ![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
 
+* Wifi: GuestNet
+
 +++
 
 ### Welcome
 
 * Logistical Information
   * Building Logistics
-  * Wifi
+  * Wifi: GuestNet
 
 +++
 
@@ -23,13 +25,6 @@ Georgetown University Library
 * We will have snacks / meals in the room
 * Vending machines on the 2nd floor
 * OK to leave items during the day - not overnight
-
-+++
-
-### Wifi
-
-* Guest wifi: ???
-* Eduroam details: ???
 
 +++
 
