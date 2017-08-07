@@ -1,7 +1,7 @@
 ### Wednesday 8/23
 
 <pre>
-08:00-19:00 Breakfast
+08:00-09:00 Breakfast
 09:00-09:30 Building Customized Collections in DSpace - Challenges and Impact
 09:45-10:45 Questions/Discussion 2
 10:45-11:00 Break

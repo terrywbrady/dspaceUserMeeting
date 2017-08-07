@@ -11,10 +11,25 @@ Georgetown University Library
 ### Welcome
 
 * Logistical Information
-  * Restrooms
+  * Building Logistics
   * Wifi
-  * Vending
-  * Meeting Room Logistics
+
++++
+
+### Building Logistics
+
+* Restrooms on every floor
+  * Out of the door and to the left
+* We will have snacks / meals in the room
+* Vending machines on the 2nd floor
+* OK to leave items during the day - not overnight
+
++++
+
+### Wifi
+
+* Guest wifi: ???
+* Eduroam details: ???
 
 +++
 
