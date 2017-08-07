@@ -78,7 +78,7 @@
 * Discussion: Author Submission Policies and Practices
   * Maureen Walsh, Ohio State
 * Discussion: Assessment of Your Repository - What Does Success Look Like
-  * [Volunteer Facilitator Needed](mailto:digitalscholarship@georgetown.edu) <!-- .element: class="red" title="Please contact us if you are interested in facilitating this session"-->
+  * William Simpson (requested)
 * Discussion: [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)  
   * Terry Brady, Georgetown
 
