@@ -108,5 +108,5 @@
 ### A/V Details
 
 * The conference room has a computer, projector, and internet connection
-* If possible, please share your presentation files with Terry for use on the conference computer
+* If possible, please share your presentation files with Terry Brady for use on the conference computer
 * If you would like to use your own laptop, HDMI and VGA inputs are available
