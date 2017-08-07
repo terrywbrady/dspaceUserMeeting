@@ -6,6 +6,17 @@ Georgetown University Library
 
 https://github.com/terrywbrady/info
 
+* [DSpace Support Page](https://wiki.duraspace.org/display/DSPACE/Support)
+
++++
+
+### If you have a question, reach out
+
+* Friendly community
+  * Most of us are on small DSpace teams
+* Limited bandwidth - sometimes questions are missed
+* No response?  Try again
+
 +++
 
 ### Communication Tools
@@ -28,11 +39,12 @@ https://github.com/terrywbrady/info
 +++
 
 ### Slack/IRC Channels - Realtime Chat
-
-* [DSpace General Group](https://dspace-org.slack.com/messages/C3N0VHT6K)
-* [DSpace Tech Support](https://dspace-org.slack.com/messages/C3V628QNN)
-* [DSpace 7 REST API Group](https://dspace-org.slack.com/messages/C3T5FTLNP)
-* [DSpace 7 UI Group](https://dspace-org.slack.com/messages/C3TTSEB1V)
+ #general, #tech-support, #angular-ui, #rest-api
+* [Register for DSpace Slack](https://wiki.duraspace.org/display/DSPACE/Slack )
+* [#general](https://dspace-org.slack.com/messages/C3N0VHT6K)
+* [#tech-support](https://dspace-org.slack.com/messages/C3V628QNN)
+* [#rest-api](https://dspace-org.slack.com/messages/C3T5FTLNP)
+* [#angular-ui](https://dspace-org.slack.com/messages/C3TTSEB1V)
 
 +++
 
@@ -64,7 +76,7 @@ https://github.com/terrywbrady/info
 ### Issue Tracking - Jira
 
 * [Jira Issue Tracking](https://jira.duraspace.org/projects/DS/issues/)
-* Contact Tim Donohue for a login
+  * Contact sysadmin@duraspace.org for a login
 * Create issues
 * Comment/vote on issues - help us identify the critical issues
 
