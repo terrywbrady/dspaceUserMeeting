@@ -79,6 +79,7 @@ https://github.com/terrywbrady/info
   * Contact sysadmin@duraspace.org for a login
 * Create issues
 * Comment/vote on issues - help us identify the critical issues
+* Issues are organized by priority and target release
 
 +++
 
