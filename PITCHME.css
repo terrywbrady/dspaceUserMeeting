@@ -14,3 +14,8 @@
   font-style: italic !important;
 }
 
+ul.resources {
+  position:fixed;
+  right: 10px;
+  bottom: 10px;
+}
