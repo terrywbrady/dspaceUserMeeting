@@ -78,7 +78,7 @@
 * Discussion: Author Submission Policies and Practices
   * Maureen Walsh, Ohio State
 * Discussion: Assessment of Your Repository - What Does Success Look Like
-  * William Simpson (requested)
+  * William Simpson (not yet confirmed)
 * Discussion: [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)  
   * Terry Brady, Georgetown
 
@@ -109,4 +109,7 @@
 
 * The conference room has a computer, projector, and internet connection
 * If possible, please share your presentation files with Terry Brady for use on the conference computer
-* If you would like to use your own laptop, HDMI and VGA inputs are available
+* If you would like to use your own laptop, the following connectors are available
+  * HDMI 
+  * VGA
+  * mini data port to HDMI
