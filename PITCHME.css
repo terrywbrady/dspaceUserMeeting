@@ -14,7 +14,6 @@
   font-style: italic !important;
 }
 
-.right {
-  text-align: right;
-  width: 100%;
+.resource {
+  padding-left: 30%;
 }
