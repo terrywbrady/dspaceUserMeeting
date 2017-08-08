@@ -10,11 +10,14 @@ Georgetown University Library
 
 +++
 
-### Welcome
+### Welcome to Georgetown
 
-* Logistical Information
-  * Building Logistics
-  * Wifi: GuestNet
++++
+
+### Logistical Information
+
+* Building Logistics
+* Wifi: GuestNet
 
 +++
 
@@ -46,6 +49,12 @@ Georgetown University Library
 * Any additional discussion topics?
 
 +++?include=schedule/social.md
+
++++
+
+### Welcome from Debra Kurtz, CEO of DuraSpace
+
+[Conference Link](https://georgetown.zoom.us/j/519298465)
 
 +++
 
