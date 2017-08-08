@@ -2,11 +2,10 @@
 
 Georgetown University Library
 
-* [Meeting Information](https://www.library.georgetown.edu/node/19724)
-
 ![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
 
-* Wifi: GuestNet
+[Meeting Information](https://www.library.georgetown.edu/node/19724) <!-- .element: class="right" -->
+Wifi: GuestNet <!-- .element: class="right" -->
 
 +++
 
