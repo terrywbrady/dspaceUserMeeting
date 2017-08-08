@@ -4,8 +4,9 @@ Georgetown University Library
 
 ![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
 
-* [Meeting Information](https://www.library.georgetown.edu/node/19724) <!-- .element: class="resource" -->
-* Wifi: GuestNet <!-- .element: class="resource" -->
+<hr/>
+* [Meeting Information](https://www.library.georgetown.edu/node/19724) 
+* Wifi: GuestNet 
 
 +++
 
