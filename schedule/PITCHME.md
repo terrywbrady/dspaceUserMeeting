@@ -3,6 +3,8 @@
 * [Meeting Information](https://www.library.georgetown.edu/node/19724)
 * [Welcome Presentation](https://gitpitch.com/terrywbrady/dspaceUserMeeting?grs=github&t=white)
 
+_Use the space bar or arrow keys to navigate the slideshow_
+
 ---?include=schedule/tuesday.md
 
 +++
