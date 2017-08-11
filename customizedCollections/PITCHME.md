@@ -139,8 +139,19 @@ Georgetown Law Library
 
 ### Theme Simplification
 
+We used to provide themes with significant visual variation
+
 +++?image=https://cloud.githubusercontent.com/assets/1111057/8435057/1798071c-1f04-11e5-921b-9539ce16117d.png
 +++?image=https://cloud.githubusercontent.com/assets/1111057/8435523/815fb062-1f06-11e5-891d-9a3e4a96fb5a.png
++++
+(Insert old Krogh Theme here)
+
++++ 
+
+### Theme Simplication
+
+* Themes have less visual differentiation since the adoption of the Mirage2 responsive theme
+* Focus on impactful, collection-specific customizations
 
 ---
 
