@@ -20,7 +20,7 @@ Georgetown Law Library
   * Art History Database of 150,000 items restricted to the Georgetown Community
   * 350,000 Bioethics Citations
 
-+++
+---
 
 ### Overview
 
@@ -42,15 +42,6 @@ Georgetown Law Library
 +++
 
 ### Customization Goals
-
-+++
-
-### Customization Example: Ambassadors Portal
-
-* [Ambassadors Portal (Test Server)](https://repository-test.library.georgetown.edu/handle/10822/1043019)
-* Custom Facets to Facilitate Discovery
-* Item Summary Page links to Custom Facets
-* External finding aid link
 
 +++
 
@@ -143,18 +134,30 @@ Georgetown Law Library
 
 ### Theme Simplification
 
-We used to provide themes with significant visual variation
+* We used to provide themes with significant visual variation
+* New themes have less visual differentiation since the adoption of the Mirage2 responsive theme
+* Focus on impactful, collection-specific customizations
 
 +++?image=https://cloud.githubusercontent.com/assets/1111057/8435057/1798071c-1f04-11e5-921b-9539ce16117d.png
++++?image=customizedCollections/covey.png
 +++?image=https://cloud.githubusercontent.com/assets/1111057/8435523/815fb062-1f06-11e5-891d-9a3e4a96fb5a.png
++++?image=customizedCollections/mclaughlin.png
 +++?image=customizedCollections/krogh.png
++++?image=customizedCollections/kroghNew.png
 
 +++ 
 
 ### Theme Simplication
 
-* Themes have less visual differentiation since the adoption of the Mirage2 responsive theme
-* Focus on impactful, collection-specific customizations
+
++++
+
+### Customization Example: Ambassadors Portal
+
+* [Ambassadors Portal (Test Server)](https://repository-test.library.georgetown.edu/handle/10822/1043019)
+* Custom Facets to Facilitate Discovery
+* Item Summary Page links to Custom Facets
+* External finding aid link
 
 ---
 
