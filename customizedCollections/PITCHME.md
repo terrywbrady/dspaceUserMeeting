@@ -10,7 +10,7 @@ Georgetown Law Library
 ![](https://repository.library.georgetown.edu/themes/law-lib//images/gull_logo.jpg)
 
 
----
++++
 
 ### DigitalGeorgetown Overview
 
@@ -20,7 +20,7 @@ Georgetown Law Library
   * Art History Database of 150,000 items restricted to the Georgetown Community
   * 350,000 Bioethics Citations
 
----
++++
 
 ### Overview
 
@@ -29,7 +29,7 @@ Georgetown Law Library
 * Viewer Integration - Suzanne Chase
 * Code Examples Throughout - Terry Brady
 
----
++++
 
 ### Why To Customize Your Repository (Salwa)
 
@@ -131,7 +131,7 @@ Georgetown Law Library
     <xsl:text>202.687.3885</xsl:text>
 </xsl:template>
 ```
-@[1-9](Theme-specific footer)
+@[1-9](Theme-specific footer - xsl template override)
 
 +++
 
@@ -182,6 +182,8 @@ We used to provide themes with significant visual variation
 * Improve buy-in with stake-holders
 
 +++
+### Identify Specific Collections by Handle
+
 ```
 <xsl:variable name="IS_ANGELICA" select="key('myancestor','10822/559388')"/>
 <xsl:variable name="IS_KROGH" select="key('myancestor','10822/549457')"/>
@@ -196,9 +198,11 @@ We used to provide themes with significant visual variation
 <xsl:variable name="IS_SCCAT" select="key('myancestor','10822/551505')"/>
 <xsl:variable name="IS_PROJRE" select="key('myancestor','10822/1042291')"/>
 ```
-@[1-12](Identify Specific Collections by Handle)
+@[1-12](Use xsl variables for small theme variations)
 
 +++ 
+
+### Set Microtags for Special Collections
 
 ```    
 <xsl:variable name="MICROTAG">
@@ -230,6 +234,8 @@ We used to provide themes with significant visual variation
 @[16-18](Set Default Microtag Properties)
 
 +++
+
+### Collection Logos
 ```
 <xsl:template match="dri:div[@n='community-home' or @n='collection-home']/dri:head" priority="3">
   <xsl:choose>
@@ -285,6 +291,7 @@ We used to provide themes with significant visual variation
 
 +++
 
+### Customize Field Labels by Collection
 ``` 
 <xsl:variable name="H_AUTHOR">
   <xsl:choose>
@@ -322,8 +329,13 @@ Add Custom Field for a Collection
     <!-- ... more cases -->
   </xsl:choose>
 </xsl:template>
+
+@[3](Test for specific collection)
+@[4](Look for specific metadata field)
 ```
 +++
+
+### Customize Link Target for a Summary Page Field
 ```
 <xsl:variable name="FILTER_SUBJECT">
   <xsl:choose>
@@ -335,6 +347,7 @@ Add Custom Field for a Collection
 </xsl:variable>
 ```
 @[1-8](Customize Link Target for a Summary Page Field)
+@[3](Hyperlink to a facet within a collection)
 +++
 
 ### Special Cases 
