@@ -282,7 +282,7 @@ Georgetown Law Library
 +++
 
 ### Customize Field Labels by Collection
-``` 
+```xml 
 <xsl:variable name="H_AUTHOR">
   <xsl:choose>
     <xsl:when test="$IS_PROJRE">Person Interviewed</xsl:when>
@@ -298,7 +298,7 @@ Georgetown Law Library
 @[3](Treat creator/author as "Interviewee")
 @[4-5](Treat creator/author as "Artist")
 @[6](Treat creator/author as "Moderator")
-@[7](Treat creator/author as "Creator")
+@[7](Treat creator/author as "Creator") 
 @[8](Treat creator/author as "Ambassador")
 @[9](Default to "Author")
 +++
@@ -323,11 +323,11 @@ Add Custom Field for a Collection
     </xsl:when>
     <!-- ... more cases -->
   </xsl:choose>
-</xsl:template>
+</xsl:template> 
 
 @[3](Test for specific collection)
 @[4](Look for specific metadata field)
-@[9-13](Display all values discovered)
+@[9-13](Display all values discovered) 
 ```
 +++
 
