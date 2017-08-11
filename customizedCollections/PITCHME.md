@@ -1,6 +1,6 @@
 ### Talk: Building Customized Collections in DSpace
 
-Suzanne Chase, Salwa Ismail, Leah Prescott, Terry Brady
+Terry Brady, Suzanne Chase, Salwa Ismail, Leah Prescott
 
 Georgetown University Library
 
@@ -9,13 +9,59 @@ Georgetown Law Library
 ![](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
 ![](https://repository.library.georgetown.edu/themes/law-lib//images/gull_logo.jpg)
 
+
+---
+
+### DigitalGeorgetown Overview
+
+* 536,000 Items
+  * Largest or 2nd Largest DSpace Instance by Item Count
+* Replaced Several Legacy Databases at the University
+  * Art History Database of 150,000 items restricted to the Georgetown Community
+  * 350,000 Bioethics Citations
+
+---
+
+### Overview
+
+* Why Customize? Salwa Ismail
+* Collection Customization - Leah Prescott
+* Viewer Integration - Suzanne Chase
+* Code Examples Throughout - Terry Brady
+
+---
+
+### Why To Customize Your Repository (Salwa)
+
+* Customization Goals 
+* Repository Branding
+* Community Themes
+* LMS Integration
+* Theme Simplification
+
 +++
 
-### DigitalGeorgetown Theme Variations
-* 51 Theme Variations 
-  * Logos
-  * Custom Item Summary Pages
-* 14 Custom Facets
+### Customization Goals
+
++++
+
+### Customization Example: Ambassadors Portal
+
+* [Ambassadors Portal (Test Server)](https://repository-test.library.georgetown.edu/handle/10822/1043019)
+* Custom Facets to Facilitate Discovery
+* Item Summary Page links to Custom Facets
+* External finding aid link
+
++++
+
+### Repository Branding
+
+* https://repository.library.georgetown.edu
+  * Branding Logos
+  * AddThis Menu Integration
+* DigitalGeorgetown Portal
+  * http://www.library.georgetown.edu/digitalgeorgetown
+  
 
 +++
 
@@ -85,11 +131,33 @@ Georgetown Law Library
 
 +++
 
+### LMS Integration
+
+[DigitalGeorgetown MashUp in Blackboard](https://github.com/Georgetown-University-Libraries/georgetown-university-libraries.github.io/wiki/Linking-Digital-Resources-to-the-University-Learning-Management-System)
+
++++
+
+### Theme Simplification
+
++++?image=https://cloud.githubusercontent.com/assets/1111057/8435057/1798071c-1f04-11e5-921b-9539ce16117d.png
++++?image=https://cloud.githubusercontent.com/assets/1111057/8435523/815fb062-1f06-11e5-891d-9a3e4a96fb5a.png
+
+---
+
+### Collection Theme Variations (Leah)
+* 51 Theme Variations 
+  * Logos
+  * Custom Item Summary Pages
+* 14 Custom Facets
+
++++
+
 ### Collection Themes
 
 * Custom Logos 
 * Custom Help Pages
-* Customized Summary Page
+* Collection Summary Page
+* Item Summary Page
 * Custom Facets 
 
 +++
@@ -97,7 +165,7 @@ Georgetown Law Library
 ### Collection Theme Goals
 
 * Make navigation more intuitive
-* Improve buy-in with stakeholders
+* Improve buy-in with stake-holders
 
 +++
 ```
@@ -178,8 +246,9 @@ Georgetown Law Library
 
 +++
 
-### Customized Summary Page
+### Customized Item Summary Page
 
+* Custom help links
 * Fields to list
 * Custom field headers
 * Hyperlinked Terms
@@ -187,7 +256,15 @@ Georgetown Law Library
 
 +++
 
-### Customized Summary Page
+### Customized Collection Page / Facets
+
+* [Default Collection Page - IR](https://repository.library.georgetown.edu/handle/10822/1)
+* [DC Historic Preservation Law](https://repository.library.georgetown.edu/handle/10822/761426)
+* [Art Collection - Angelica](https://repository.library.georgetown.edu/handle/10822/559388)
+
++++
+
+### Customized Item Summary Page
 
 * [Default Item Summary Page](https://repository.library.georgetown.edu/handle/10822/1043018)
 * [Summary Page for Art Item](https://repository.library.georgetown.edu/handle/10822/1040563)
@@ -256,6 +333,20 @@ The collection theme links out to a custom glossary.
 
 +++
 
+### External Resources
+
+* [Court Records and Briefs at the Internet Archive](https://repository.library.georgetown.edu/handle/10822/1043058) 
+
+---
+
+### Repository Integration (Suzanne Chase)
+
+* Integrated Viewers
+* Discovery (Summon)
+* Other Enhancements
+
++++
+
 ### Integrated Viewers
 
 * [Document Viewer - FlexPaper](https://repository.library.georgetown.edu/bookview/10822/001/042/1042290/2/index.html)
@@ -268,9 +359,27 @@ The collection theme links out to a custom glossary.
 
 +++
 
+### Discovery Integration
+
+* Did troubleshooting with Summon to use OAI harvester
+* Defined a strategy to identify full text / non full text
+* [DG Finding Aid Example in Summon - TBD]( http://gt.summon.serialssolutions.com/#!/search?ho=t&l=en&bookMark=ePnHCXMw42LgTQStzc4rAe_hSuFkkAevzlbwAOaPPCsFZ2CI5OfnKYD7xeCl-9wMWm6uIc4euukl8SmZ6aC7MoCBDYyE4njQ2ceGoDPJgSQwcZmBrrglQTEAfWQsfA)
+
++++
+
+### Collection Display Enhancements
+
+* Explicit "View All" and "More Items" button
+* Show statistics on Item Pages
+* Suppress statistics on Collection/Community Pages
+  * Numbers were misleadingly small
+
+
+---
+
 ### Thank You!
 
-Suzanne Chase, Salwa Ismail, Leah Prescott, Terry Brady
+Terry Brady, Suzanne Chase, Salwa Ismail, Leah Prescott
 
 Georgetown University Library
 Georgetown Law Library
