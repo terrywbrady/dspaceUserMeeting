@@ -83,6 +83,8 @@ Georgetown Law Library
 
 +++
 
+### xmlui.xconf
+
 ```
 <theme name="Bioethics Research Library" handle="10822/503786" path="bioethics/" /> 
 <theme name="SpecialCollections" handle="10822/7" path="misc/" /> 
@@ -101,6 +103,7 @@ Georgetown Law Library
 
 +++
 
+### Sample Custom Theme
 ```
 <xsl:import href="../../Mirage2/xsl/theme.xsl"/>
 <xsl:output indent="yes"/>
@@ -111,11 +114,12 @@ Georgetown Law Library
 <xsl:variable name="MICROTAG"/>
 ```
 @[1](Theme is derived from the default Mirage2 theme)
-@[3-6](Custom Logo and Link)
+@[3-6](Custom Logo and Link via XSL Variables)
 @[7](Disable Creation of Microtags for this Community)
 
 +++
 
+### Custom Footer
 ```
 <xsl:template name="guFooterText">
     <xsl:text>&#xA9;2009&#x2014;</xsl:text>
