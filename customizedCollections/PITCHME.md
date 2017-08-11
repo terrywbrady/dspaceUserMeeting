@@ -29,6 +29,14 @@ Georgetown Law Library
 
 +++
 
+### Community Themes
+
+* Set default logo, header, footer
+* Set default microtag behavior (SEO)
+* Set default Google Scholar metadata
+
++++
+
 ```
 <theme name="Bioethics Research Library" handle="10822/503786" path="bioethics/" /> 
 <theme name="SpecialCollections" handle="10822/7" path="misc/" /> 
@@ -77,27 +85,19 @@ Georgetown Law Library
 
 +++
 
-### Goals
-
-* Make navigation more intuitive
-* Improve buy-in with stakeholders
-
-+++
-
-### Community Themes
-
-* Header/Footer
-* Microtag / Google Scholar Defaults
-* Default Logos
-
-+++
-
 ### Collection Themes
 
 * Custom Logos 
 * Custom Help Pages
 * Customized Summary Page
 * Custom Facets 
+
++++
+
+### Collection Theme Goals
+
+* Make navigation more intuitive
+* Improve buy-in with stakeholders
 
 +++
 ```
@@ -261,7 +261,7 @@ The collection theme links out to a custom glossary.
 * [Document Viewer - FlexPaper](https://repository.library.georgetown.edu/bookview/10822/001/042/1042290/2/index.html)
 * Sharestream Viewer
   * [Publicly available video](https://repository.library.georgetown.edu/handle/10822/552590)
-  * [Publicly available video with still](https://repository.library.georgetown.edu/handle/10822/1041791)
+  * [Publicly available video with still](https://repository.library.georgetown.edu/handle/10822/711019)
   * [Limited access video](https://repository.library.georgetown.edu/handle/10822/710122)
   * [Audio Archives](https://repository.library.georgetown.edu/handle/10822/712415)
 * [ArchivesSpace Integration](https://repository.library.georgetown.edu/handle/10822/1042600)

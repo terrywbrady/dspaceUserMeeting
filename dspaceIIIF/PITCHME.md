@@ -1,6 +1,6 @@
 ### Discussion: DSpace and IIIF
 
-Suzanne Chase
+Terry Brady, Suzanne Chase
 
 Georgetown University Library
 
@@ -31,6 +31,13 @@ http://www.library.georgetown.edu/lit
   * Facilitate new ways to share images
   * Replace Document Viewer
   * Show item relationships
+
+### Use Cases to Prototype
+
+* Manuscript Viewing
+* High resolution image viewing
+* View a collection of related images
+* View a collection of related objects (images and documents)
 
 +++
 
