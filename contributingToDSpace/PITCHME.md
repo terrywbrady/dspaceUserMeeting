@@ -45,6 +45,7 @@ https://github.com/terrywbrady/info
 * [#tech-support](https://dspace-org.slack.com/messages/C3V628QNN)
 * [#rest-api](https://dspace-org.slack.com/messages/C3T5FTLNP)
 * [#angular-ui](https://dspace-org.slack.com/messages/C3TTSEB1V)
+* [#dcat](https://dspace-org.slack.com/messages/C6KQET9LL)
 
 +++
 
