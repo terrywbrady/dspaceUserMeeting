@@ -20,7 +20,7 @@ Georgetown Law Library
   * Art History Database of 150,000 items restricted to the Georgetown Community
   * 350,000 Bioethics Citations
 
----
++++
 
 ### Overview
 
@@ -29,7 +29,7 @@ Georgetown Law Library
 * Viewer Integration - Suzanne Chase
 * Code Examples Throughout - Terry Brady
 
-+++
+---
 
 ### Why To Customize Your Repository (Salwa)
 
@@ -145,14 +145,9 @@ Georgetown Law Library
 +++?image=customizedCollections/krogh.png
 +++?image=customizedCollections/kroghNew.png
 
-+++ 
-
-### Theme Simplication
-
-
 +++
 
-### Customization Example: Ambassadors Portal
+### New Customization Example: Ambassadors Portal
 
 * [Ambassadors Portal (Test Server)](https://repository-test.library.georgetown.edu/handle/10822/1043019)
 * Custom Facets to Facilitate Discovery
