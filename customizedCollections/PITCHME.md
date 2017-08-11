@@ -274,14 +274,6 @@ Georgetown Law Library
 
 +++
 
-### Customized Collection Page / Facets
-
-* [Default Collection Page - IR](https://repository.library.georgetown.edu/handle/10822/1)
-* [DC Historic Preservation Law](https://repository.library.georgetown.edu/handle/10822/761426)
-* [Art Collection - Angelica](https://repository.library.georgetown.edu/handle/10822/559388)
-
-+++
-
 ### Customized Item Summary Page
 
 * [Default Item Summary Page](https://repository.library.georgetown.edu/handle/10822/1043018)
@@ -303,7 +295,12 @@ Georgetown Law Library
   </xsl:choose>
 </xsl:variable>
 ```
-@[1-11](Customize Field Label by Collection)
+@[3](Treat creator/author as "Interviewee")
+@[4-5](Treat creator/author as "Artist")
+@[6](Treat creator/author as "Moderator")
+@[7](Treat creator/author as "Creator")
+@[8](Treat creator/author as "Ambassador")
+@[9](Default to "Author")
 +++
 Add Custom Field for a Collection
 ```
@@ -330,6 +327,7 @@ Add Custom Field for a Collection
 
 @[3](Test for specific collection)
 @[4](Look for specific metadata field)
+@[9-13](Display all values discovered)
 ```
 +++
 
@@ -346,10 +344,18 @@ Add Custom Field for a Collection
 ```
 @[1-8](Customize Link Target for a Summary Page Field)
 @[3](Hyperlink to a facet within a collection)
+
 +++
 
 ### Special Cases 
 
+* Item Description as Markdown
+* Description of External Resources
+
++++
+
+### Item Description as Markdown
+ 
 The following collection supports item descriptions written in Markdown.
 
 The collection theme links out to a custom glossary.
@@ -361,6 +367,14 @@ The collection theme links out to a custom glossary.
 ### External Resources
 
 * [Court Records and Briefs at the Internet Archive](https://repository.library.georgetown.edu/handle/10822/1043058) 
+
++++
+
+### Customized Collection Page / Facets
+
+* [Default Collection Page - IR](https://repository.library.georgetown.edu/handle/10822/1)
+* [DC Historic Preservation Law](https://repository.library.georgetown.edu/handle/10822/761426)
+* [Art Collection - Angelica](https://repository.library.georgetown.edu/handle/10822/559388)
 
 ---
 
