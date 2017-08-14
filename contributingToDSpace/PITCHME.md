@@ -1,10 +1,8 @@
 ### Discussion: Contributing to DSpace
 
-Terry Brady
+Terry Brady, Georgetown University Library
 
-Georgetown University Library
-
-https://github.com/terrywbrady/info
+Mark Wood, Indiana University-Purdue University Indianapolis
 
 * [DSpace Support Page](https://wiki.duraspace.org/display/DSPACE/Support)
 
@@ -120,7 +118,7 @@ What are your ideas for getting involved with DSpace?
 
 ### Thank You!
 
-Terry Brady
+Terry Brady, Georgetown University Library
 
-http://www.github.com/terrywbrady/info
+Mark Wood, Indiana University-Purdue University Indianapolis
 
