@@ -120,7 +120,9 @@ _Use the space bar or arrow keys to navigate the slideshow_
   
 ### Timekeepers
 
-|Tue PM|Lightning Talks 1|Megan Martinsen|
+|Day|Session|Timekeeper|
+|---|---|---|
+|Tue PM|Talks 1|Megan Martinsen|
 |Tue PM|Discussion 1||
 |Wed AM|Discussion 2||
 |Wed AM|Discussion 3||
