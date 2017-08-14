@@ -115,3 +115,14 @@ _Use the space bar or arrow keys to navigate the slideshow_
   * HDMI 
   * VGA
   * mini data port to HDMI
+  
++++
+  
+### Timekeepers
+
+|Tue PM|Lightning Talks 1|Megan Martinsen|
+|Tue PM|Discussion 1||
+|Wed AM|Questions/Discussion 2||
+|Wed AM|Discussion 3||
+|Wed PM|Discussion 4|Salwa Ismail|
+  

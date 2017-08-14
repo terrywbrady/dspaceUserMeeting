@@ -45,6 +45,18 @@ Georgetown University Library
 
 +++
 
+### Time Keeping
+
+* Lightning Talks (15 min) 
+  * 10 min limit for presentation
+  * 3-5 min Q&A
+  * Time signals
+* Discusion / Quession Session (20 min)
+  * Optional 5 min presentation
+  * General Discussion
+
++++
+
 ### Change Proposals
 
 * Any additional discussion topics?
