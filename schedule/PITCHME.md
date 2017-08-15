@@ -122,9 +122,9 @@ _Use the space bar or arrow keys to navigate the slideshow_
 
 |Day|Session|Timekeeper|
 |---|---|---|
-|Tue PM|Talks 1|Megan Martinsen|
-|Tue PM|Discussion 1||
-|Wed AM|Discussion 2||
-|Wed AM|Discussion 3||
-|Wed PM|Discussion 4|Salwa Ismail|
+|Tue PM|Talks 1|Mike Marttila|
+|Tue PM|Discussion 1|Joe Carrano|
+|Wed AM|Discussion 2|Megan Martinsen|
+|Wed AM|Discussion 3|Mike Marttila|
+|Wed PM|Discussion 4|Joe Carrano|
   
