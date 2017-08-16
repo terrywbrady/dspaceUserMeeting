@@ -28,7 +28,9 @@ http://www.library.georgetown.edu/lit
 * [Size 10%: full/pct:10/0](https://repository-dev.library.georgetown.edu/iiif/2/10822_712827_1.jpg/full/pct:10/0/default.jpg)
 * [Cropped Portion: 990,1402,408,274/full/0](https://repository-dev.library.georgetown.edu/iiif/2/10822_712827_1.jpg/990,1402,408,274/full/0/default.jpg)
 * [Stanford Image Cropper](https://stanford.edu/~efisch17/iiif-tools/cropper/)  
-  ```https://repository-dev.library.georgetown.edu/iiif/2/10822_712827_1.jpg/full/full/0/default.jpg```
+```
+https://repository-dev.library.georgetown.edu/iiif/2/10822_712827_1.jpg/full/full/0/default.jpg
+```
 * [Manifest View - Presentation API](https://repository-dev.library.georgetown.edu/uv-202/app.html?manifestUri=https://gist.githubusercontent.com/terrywbrady/af65cbce94f9457a4705210aa84ead70/raw/9051f7d0b0377649a122689852efddc6dc4c314d/manifest.json)
 
 +++
