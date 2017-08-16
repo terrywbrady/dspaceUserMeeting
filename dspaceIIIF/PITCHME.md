@@ -21,13 +21,15 @@ http://www.library.georgetown.edu/lit
   
 +++
 
-### Image Examples
+### Image Examples (on Georgetown VPN)
 
-* [Sample Image](https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729538%2F502690.fpx/full/full/0/native.jpg)
-* [30% Rotation\(https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729538%2F502690.fpx/full/full/30/native.jpg)
-* [Size 10%](https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729538%2F502690.fpx/full/pct:10/0/native.jpg)
-* [Cropped Portion](https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729538%2F502690.fpx/1068,861,145,154/full/0/native.jpg)
+* [Sample Image: /full/full/0](https://repository-dev.library.georgetown.edu/iiif/2/10822_712827_1.jpg/full/full/0/default.jpg)
+* [30% Rotation: /full/full/30](https://repository-dev.library.georgetown.edu/iiif/2/10822_712827_1.jpg/full/full/30/default.jpg)
+* [Size 10%: full/pct:10/0](https://repository-dev.library.georgetown.edu/iiif/2/10822_712827_1.jpg/full/pct:10/0/default.jpg)
+* [Cropped Portion: 990,1402,408,274/full/0](https://repository-dev.library.georgetown.edu/iiif/2/10822_712827_1.jpg/990,1402,408,274/full/0/default.jpg)
 * [Stanford Image Cropper](https://stanford.edu/~efisch17/iiif-tools/cropper/)  
+  * `https://repository-dev.library.georgetown.edu/iiif/2/10822_712827_1.jpg/full/full/0/default.jpg`
+* [Manifest View - Presentation API](https://repository-dev.library.georgetown.edu/uv-202/app.html?manifestUri=https://gist.githubusercontent.com/terrywbrady/af65cbce94f9457a4705210aa84ead70/raw/9051f7d0b0377649a122689852efddc6dc4c314d/manifest.json)
 
 +++
 
