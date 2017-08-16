@@ -23,10 +23,10 @@ http://www.library.georgetown.edu/lit
 
 ### Image Examples
 
-* https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729538%2F502690.fpx/full/full/0/native.jpg
-* https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729538%2F502690.fpx/full/full/30/native.jpg
-* https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729538%2F502690.fpx/full/pct:10/0/native.jpg
-* https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729538%2F502690.fpx/1068,861,145,154/full/0/native.jpg
+* [Sample Image](https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729538%2F502690.fpx/full/full/0/native.jpg)
+* [30% Rotation\(https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729538%2F502690.fpx/full/full/30/native.jpg)
+* [Size 10%](https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729538%2F502690.fpx/full/pct:10/0/native.jpg)
+* [Cropped Portion](https://tsprod.artstor.org/rosa-iiif-endpoint-1.0-SNAPSHOT/fpx%2Fsslps%2Fc7729538%2F502690.fpx/1068,861,145,154/full/0/native.jpg)
 * [Stanford Image Cropper](https://stanford.edu/~efisch17/iiif-tools/cropper/)  
 
 +++
