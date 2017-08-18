@@ -24,10 +24,9 @@ Georgetown Law Library
 
 ### Overview
 
-* Why Customize? Salwa Ismail
+* Why Customize? Terry Brady
 * Collection Customization - Leah Prescott
 * Viewer Integration - Suzanne Chase
-* Code Examples Throughout - Terry Brady
 
 ---
 
@@ -42,6 +41,10 @@ Georgetown Law Library
 +++
 
 ### Customization Goals
+
+* Branding
+* Stakeholder Buy-In
+* Improved Usability
 
 +++
 

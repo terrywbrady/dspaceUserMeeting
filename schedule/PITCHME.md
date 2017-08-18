@@ -35,8 +35,8 @@ _Use the space bar or arrow keys to navigate the slideshow_
   * Terry Brady and Suzanne Chase, Georgetown
 * Discussion: DSpace for Beginners
   * Tom Hutchinson, Swarthmore
-* Discussion: [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)  
-  * Terry Brady, Georgetown and Mark Wood, IUPUI
+* Discussion: Promoting Your Repository
+  * Salwa Ismail, Georgetown
 
 +++?include=schedule/social.md
 
@@ -68,8 +68,8 @@ _Use the space bar or arrow keys to navigate the slideshow_
   * Leah Prescott, Georgetown Law
 * Discussion: DSpace Community - What do You Need?
   * Anne Lawrence, Virgina Tech
-* Discussion: Promoting Your Repository
-  * Salwa Ismail, Georgetown
+* Discussion: [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)  
+  * Terry Brady, Georgetown and Mark Wood, IUPUI
 
 +++?include=schedule/breakout.md
   
