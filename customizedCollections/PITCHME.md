@@ -396,7 +396,8 @@ The collection theme links out to a custom glossary.
 * Did troubleshooting with Summon to use OAI harvester
 * Defined a strategy to identify full text / non full text
 * [DG Finding Aid Example in Summon]( http://gt.summon.serialssolutions.com/#!/search?ho=t&l=en&bookMark=ePnHCXMw42LgTQStzc4rAe_hSuFkkAevzlbwAOaPPCsFZ2CI5OfnKYD7xeCl-9wMWm6uIc4euukl8SmZ6aC7MoCBDYyE4njQ2ceGoDPJgSQwcZmBrrglQTEAfWQsfA)
-
+* [DG Special Collection Example in Summon](https://gt.summon.serialssolutions.com/?q=ciszek#!/search?ho=t&fvf=ContentType,Web%20Resource,f%7CContentType,Finding%20Aid,f&l=en&q=Guiteau)
+ 
 +++
 
 ### Collection Display Enhancements
