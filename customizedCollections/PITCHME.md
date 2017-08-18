@@ -164,16 +164,6 @@ Georgetown Law Library
 
 +++
 
-### Collection Themes
-
-* Custom Logos 
-* Custom Help Pages
-* Collection Summary Page
-* Item Summary Page
-* Custom Facets 
-
-+++
-
 ### Collection Theme Goals
 
 * Make navigation more intuitive
@@ -391,7 +381,7 @@ The collection theme links out to a custom glossary.
 * [Document Viewer - FlexPaper](https://repository.library.georgetown.edu/bookview/10822/001/042/1042290/2/index.html)
 * Sharestream Viewer
   * [Publicly available video](https://repository.library.georgetown.edu/handle/10822/552590)
-  * [Publicly available video with still](https://repository.library.georgetown.edu/handle/10822/711019)
+  * [Publicly available video with still](https://repository.library.georgetown.edu/handle/10822/1044059)
   * [Limited access video](https://repository.library.georgetown.edu/handle/10822/710122)
   * [Audio Archives](https://repository.library.georgetown.edu/handle/10822/712415)
 * [ArchivesSpace Integration](https://repository.library.georgetown.edu/handle/10822/1042600)
