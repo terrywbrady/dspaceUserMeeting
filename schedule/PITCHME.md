@@ -31,12 +31,12 @@ _Use the space bar or arrow keys to navigate the slideshow_
 
 ### Discussion 1 (Tuesday PM)
 
-* Discussion: The Tradeoffs of Maintaining Multiple Platforms or Converging on One Repo to Rule Them All
-  * Kate Dohe and Ben Wallberg, U of Maryland
 * Discussion: [DSpace and IIIF](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=dspaceIIIF) 
   * Terry Brady and Suzanne Chase, Georgetown
 * Discussion: DSpace for Beginners
   * Tom Hutchinson, Swarthmore
+* Discussion: [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)  
+  * Terry Brady, Georgetown and Mark Wood, IUPUI
 
 +++?include=schedule/social.md
 
@@ -77,12 +77,12 @@ _Use the space bar or arrow keys to navigate the slideshow_
 
 ### Discussion 4 (Wednesday PM)
 
+* Discussion: The Tradeoffs of Maintaining Multiple Platforms or Converging on One Repo to Rule Them All
+  * Kate Dohe and Ben Wallberg, U of Maryland
 * Discussion: Author Submission Policies and Practices
   * Maureen Walsh, Ohio State
 * Discussion: Assessment of Your Repository - What Does Success Look Like
   * William Simpson (not yet confirmed)
-* Discussion: [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)  
-  * Terry Brady, Georgetown and Mark Wood, IUPUI
 
 +++
 
