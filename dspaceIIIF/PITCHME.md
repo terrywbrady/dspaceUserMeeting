@@ -43,7 +43,8 @@ http://www.library.georgetown.edu/lit
 
 ### Georgetown's hopes for IIIF
 
-* [Prototype](https://wiki.duraspace.org/display/DSPACE/IIIF+Experimentation+at+Georgetown+-+June+2017)
+* [Prototype - June 2017](https://wiki.duraspace.org/display/DSPACE/IIIF+Experimentation+at+Georgetown+-+June+2017)
+* [Manifest Builder Prototype - Aug 2017](https://wiki.duraspace.org/display/DSPACE/Georgetown+IIIF+-+Aug+2017)
 * Goals
   * Facilitate new ways to share images
   * Replace Document Viewer
