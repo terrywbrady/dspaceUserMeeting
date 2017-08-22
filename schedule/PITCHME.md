@@ -11,7 +11,7 @@ _Use the space bar or arrow keys to navigate the slideshow_
 
 ### Development of the New DSpace 7 User Interface
 
-* Talk: Development of the New DSpace 7 User Interface
+* [Talk: Development of the New DSpace 7 User Interface](https://docs.google.com/presentation/d/1b-VABW_p-oVUfz58ogH2D40NtjESuTi9bTDpU2cfd90/edit#slide=id.g1f5073f8a1_0_3)
   * Tim Donohue, DuraSpace
   
 +++
