@@ -8,6 +8,24 @@ Mark Wood, Indiana University-Purdue University Indianapolis
 
 +++
 
+### Why contribute to DSpace?
+
+* Recognition for your institution (and you!)
+* Others help to maintain your work.
+* It's what we pay for free software.
+
++++
+
+### What can I contribute?
+
+* Code, of course.
+* Documentation.
+* Problem reports.
+* Your perspective on DSpace's features and behavior.
+* Testing.
+
++++
+
 ### If you have a question, reach out
 
 * Friendly community
