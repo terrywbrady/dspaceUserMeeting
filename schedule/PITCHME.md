@@ -18,7 +18,7 @@ _Use the space bar or arrow keys to navigate the slideshow_
 
 ### Lightning Talks 1 (Tuesday PM)
 
-* Talk: Digital Data Services 
+* [Talk: Digital Data Services](https://drive.google.com/open?id=1aLtQnl2m4g_YKF5KzjHdrkqI7U1BJrN-B71dpxqYsaw) 
   * Kate Dohe and Ben Wallberg, U of Maryland
 * [Talk: Data migration from DSpace 5 to Dspace 6](https://drive.google.com/open?id=0B38Pybguv0GOZTJoLVpGS1BmejA)
   * Zhongda Zhang, U of Oklahoma
