@@ -35,7 +35,7 @@ _Use the space bar or arrow keys to navigate the slideshow_
   * Terry Brady and Suzanne Chase, Georgetown
 * Discussion: DSpace for Beginners
   * Tom Hutchinson, Swarthmore
-* Discussion: Promoting Your Repository
+* Discussion: [Promoting Your Repository](https://drive.google.com/open?id=0B7qM34DNNgbiMUliWUdFUm01WnM)
   * Salwa Ismail, Georgetown
 
 +++?include=schedule/social.md

@@ -15,4 +15,4 @@
 * [Talk: Data migration from DSpace 5 to Dspace 6](https://drive.google.com/open?id=0B38Pybguv0GOZTJoLVpGS1BmejA)
 * [Talk: Symplectic Elements at Virginia Tech](https://docs.google.com/presentation/d/1vRqqVC6Fo-qvf8i35418YgpxEEi7H8J3YqbPPuN-DX0/edit?ts=599c5c69#slide=id.p)
 * [Talk: Development of the New DSpace 7 User Interface](https://docs.google.com/presentation/d/1b-VABW_p-oVUfz58ogH2D40NtjESuTi9bTDpU2cfd90/edit#slide=id.g1f5073f8a1_0_3)
-
+* Discussion: [Promoting Your Repository](https://drive.google.com/open?id=0B7qM34DNNgbiMUliWUdFUm01WnM)
