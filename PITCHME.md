@@ -14,7 +14,7 @@ Georgetown University Library
 ### Welcome to Georgetown
  
 #### Shu-Chen Tsung
-#### AUL, Digital Services and Technology Planning
+#### Associate University Librarian, Digital Services and Technology Planning
 
 +++
 
