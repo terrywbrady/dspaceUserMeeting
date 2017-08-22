@@ -20,7 +20,7 @@ _Use the space bar or arrow keys to navigate the slideshow_
 
 * Talk: Digital Data Services 
   * Kate Dohe and Ben Wallberg, U of Maryland
-* Talk: Data migration from DSpace 5 to Dspace 6
+* [Talk: Data migration from DSpace 5 to Dspace 6](https://drive.google.com/open?id=0B38Pybguv0GOZTJoLVpGS1BmejA)
   * Zhongda Zhang, U of Oklahoma
 * Talk: Symplectic Elements at Virginia Tech
   * Anne Lawrence, Virginia Tech

@@ -12,3 +12,4 @@
 ### Links
 * [Shared Notes Drive](https://drive.google.com/drive/folders/0B7l4N_z_0VsbZzlvRHpqTjlFQzA)
 * [Meeting Page](https://www.library.georgetown.edu/node/19724)
+* [Talk: Data migration from DSpace 5 to Dspace 6](https://drive.google.com/open?id=0B38Pybguv0GOZTJoLVpGS1BmejA)
