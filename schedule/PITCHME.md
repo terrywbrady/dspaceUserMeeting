@@ -24,7 +24,7 @@ _Use the space bar or arrow keys to navigate the slideshow_
   * Zhongda Zhang, U of Oklahoma
 * [Talk: Symplectic Elements at Virginia Tech](https://docs.google.com/presentation/d/1vRqqVC6Fo-qvf8i35418YgpxEEi7H8J3YqbPPuN-DX0/edit?ts=599c5c69#slide=id.p)
   * Anne Lawrence, Virginia Tech
-* Talk: Advocating for DSpace When Choosing between Systems
+* [Talk: Advocating for DSpace When Choosing between Systems](https://gitpitch.com/th5/foo)
   * Tom Hutchinson, Swarthmore
 
 +++

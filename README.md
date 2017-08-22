@@ -17,3 +17,4 @@
 * [Talk: Development of the New DSpace 7 User Interface](https://docs.google.com/presentation/d/1b-VABW_p-oVUfz58ogH2D40NtjESuTi9bTDpU2cfd90/edit#slide=id.g1f5073f8a1_0_3)
 * Discussion: [Promoting Your Repository](https://drive.google.com/open?id=0B7qM34DNNgbiMUliWUdFUm01WnM)
 * [Talk: Digital Data Services](https://drive.google.com/open?id=1aLtQnl2m4g_YKF5KzjHdrkqI7U1BJrN-B71dpxqYsaw)
+* [Talk: Advocating for DSpace When Choosing between Systems](https://gitpitch.com/th5/foo)
