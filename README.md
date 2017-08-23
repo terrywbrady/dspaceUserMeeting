@@ -21,3 +21,4 @@
 * [Discussion: Managing and Displaying Complex Objects](https://docs.google.com/presentation/d/1_WfWg6jC-AQf2WwmQPEITiIdgPeFNg9tXri5QkTklaI/edit#slide=id.g24fb7d4138_0_388)
 * [Discussion: DSpace Community - What do You Need?](https://drive.google.com/open?id=1UH9rptYxpzPr5gRzOLvXqy0_WU4wK8cdkHi8zivpiIQ)
 * [Discussion: Author Submission Policies and Practices](https://drive.google.com/open?id=1KvzfLb5XDizD1dmzIrE2PI8QbPYKsI9hjojopw_c7KA)
+* [Tutorial: Developing with the Angular 2 Framework](https://goo.gl/pWFacH)
