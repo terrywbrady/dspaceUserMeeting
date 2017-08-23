@@ -18,3 +18,4 @@
 * Discussion: [Promoting Your Repository](https://drive.google.com/open?id=0B7qM34DNNgbiMUliWUdFUm01WnM)
 * [Talk: Digital Data Services](https://drive.google.com/open?id=1aLtQnl2m4g_YKF5KzjHdrkqI7U1BJrN-B71dpxqYsaw)
 * [Talk: Advocating for DSpace When Choosing between Systems](https://gitpitch.com/th5/foo)
+* [Discussion: Managing and Displaying Complex Objects](https://docs.google.com/presentation/d/1_WfWg6jC-AQf2WwmQPEITiIdgPeFNg9tXri5QkTklaI/edit#slide=id.g24fb7d4138_0_388)

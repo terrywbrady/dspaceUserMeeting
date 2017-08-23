@@ -64,7 +64,7 @@ _Use the space bar or arrow keys to navigate the slideshow_
 
 ### Discussion 3 (Wednesday AM)
 
-* Discussion: Managing and Displaying Complex Objects
+* [Discussion: Managing and Displaying Complex Objects](https://docs.google.com/presentation/d/1_WfWg6jC-AQf2WwmQPEITiIdgPeFNg9tXri5QkTklaI/edit#slide=id.g24fb7d4138_0_388)
   * Leah Prescott, Georgetown Law
 * Discussion: DSpace Community - What do You Need?
   * Anne Lawrence, Virgina Tech
