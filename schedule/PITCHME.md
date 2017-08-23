@@ -70,6 +70,8 @@ _Use the space bar or arrow keys to navigate the slideshow_
   * Anne Lawrence, Virgina Tech
 * Discussion: [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)  
   * Terry Brady, Georgetown and Mark Wood, IUPUI
+* Data Repositories
+  * Suzanne Chase, Georgetown  
 
 +++?include=schedule/breakout.md
   
@@ -79,10 +81,10 @@ _Use the space bar or arrow keys to navigate the slideshow_
 
 * Discussion: The Tradeoffs of Maintaining Multiple Platforms or Converging on One Repo to Rule Them All
   * Kate Dohe and Ben Wallberg, U of Maryland
-* Discussion: Author Submission Policies and Practices
+* [Discussion: Author Submission Policies and Practices](https://drive.google.com/open?id=1KvzfLb5XDizD1dmzIrE2PI8QbPYKsI9hjojopw_c7KA)
   * Maureen Walsh, Ohio State
-* Open
-  * 
+* Metadata Workflows
+  * Anne Lawrence, Virginia Tech
 
 +++
 
