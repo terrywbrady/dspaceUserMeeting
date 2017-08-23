@@ -66,7 +66,7 @@ _Use the space bar or arrow keys to navigate the slideshow_
 
 * [Discussion: Managing and Displaying Complex Objects](https://docs.google.com/presentation/d/1_WfWg6jC-AQf2WwmQPEITiIdgPeFNg9tXri5QkTklaI/edit#slide=id.g24fb7d4138_0_388)
   * Leah Prescott, Georgetown Law
-* Discussion: DSpace Community - What do You Need?
+* [Discussion: DSpace Community - What do You Need?](https://drive.google.com/open?id=1UH9rptYxpzPr5gRzOLvXqy0_WU4wK8cdkHi8zivpiIQ)
   * Anne Lawrence, Virgina Tech
 * Discussion: [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)  
   * Terry Brady, Georgetown and Mark Wood, IUPUI
