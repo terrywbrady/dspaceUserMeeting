@@ -81,8 +81,8 @@ _Use the space bar or arrow keys to navigate the slideshow_
   * Kate Dohe and Ben Wallberg, U of Maryland
 * Discussion: Author Submission Policies and Practices
   * Maureen Walsh, Ohio State
-* Discussion: Assessment of Your Repository - What Does Success Look Like
-  * William Simpson (not yet confirmed)
+* Open
+  * 
 
 +++
 
