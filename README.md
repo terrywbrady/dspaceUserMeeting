@@ -15,6 +15,8 @@ The Georgetown University Library hosted a [DSpace North American User Meeting](
   * Zhongda Zhang, University of Oklahoma
 * [Talk: Symplectic Elements at Virginia Tech](https://docs.google.com/presentation/d/1vRqqVC6Fo-qvf8i35418YgpxEEi7H8J3YqbPPuN-DX0/edit?ts=599c5c69#slide=id.p)
   * Anne Lawrence, VA Tech
+* [Discussion: Metadata and Bitstream Workflows](https://drive.google.com/open?id=1QmvXtc4kbEZYjTWKyHOEHvIZSJLmR5eC6ZsqQzzWNu8)
+  * Anne Lawrence, VA Tech
 * [Talk: Digital Data Services](https://drive.google.com/open?id=1aLtQnl2m4g_YKF5KzjHdrkqI7U1BJrN-B71dpxqYsaw)
   * Kate Dohe and Ben Wallberg, University of Maryland
 * [Talk: Advocating for DSpace When Choosing between Systems](https://gitpitch.com/th5/foo)
@@ -36,11 +38,22 @@ The Georgetown University Library hosted a [DSpace North American User Meeting](
   * Terry Brady, Georgetown
   * Mark Wood, Indiana University Purdue University Indianapolis
 
-### Links
+## Other Discussion Sessions
+
+* DSpace 7.0 and Local Changes
+  * George Kozak, Cornell
+* Bot Maintenance
+  * Shana Wagger, World Bank
+* The Tradeoffs of Maintaining Multiple Platforms or Converging on One Repo to Rule Them All
+  * Kate Dohe, University of Maryland
+* Data Services
+  * Suzanne Chase, Georgetown
+
+## Links
 * [Shared Notes Drive](https://drive.google.com/drive/folders/0B7l4N_z_0VsbZzlvRHpqTjlFQzA)
   * [Collaborative Notes](https://docs.google.com/document/d/1P-3v3N-MivwjyUmyJvbiPXrouNJr3kwDl3zUozSohjY/edit?usp=sharing)
 
-### Participating Institutions
+## Participating Institutions
 * Georgetown
 * University of Maryland
 * World Bank
