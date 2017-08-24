@@ -10,6 +10,7 @@
   * Tim Donohue, DuraSpace
 * [Tutorial: Developing with the Angular 2 Framework](https://goo.gl/pWFacH)
   * Tim Donohue, DuraSpace
+  * [Video](https://georgetown.app.box.com/s/w2o6cb8v66k87qcz40le1h2elxx59xhm) 
 * [Talk: Data migration from DSpace 5 to Dspace 6](https://drive.google.com/open?id=0B38Pybguv0GOZTJoLVpGS1BmejA)
   * Zhongda Zhang, University of Oklahoma
 * [Talk: Symplectic Elements at Virginia Tech](https://docs.google.com/presentation/d/1vRqqVC6Fo-qvf8i35418YgpxEEi7H8J3YqbPPuN-DX0/edit?ts=599c5c69#slide=id.p)
