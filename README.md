@@ -1,5 +1,5 @@
-# [DSpace North American User Meeting](https://www.library.georgetown.edu/node/19724)
-, Aug 2017 
+#  North American DSpace User Meeting, Georgetown University, Aug 2017
+The Georgetown University Library hosted a [DSpace North American User Meeting](https://www.library.georgetown.edu/node/19724) for the DSpace Community on Aug 22-23, 2017. 39 people attended from 22 institutions.  The event featured a combination of topics and breakout sessions of interest to DSpace developers and DSpace repository managers. Session topics will included both technical topics and discussions of DSpace community processes. The agenda was participant driven based on proposals by attendees. 
 
 ## Slides
 * Welcome Slides [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/terrywbrady/dspaceUserMeeting?grs=github&t=white)
@@ -39,3 +39,27 @@
 ### Links
 * [Shared Notes Drive](https://drive.google.com/drive/folders/0B7l4N_z_0VsbZzlvRHpqTjlFQzA)
   * [Collaborative Notes](https://docs.google.com/document/d/1P-3v3N-MivwjyUmyJvbiPXrouNJr3kwDl3zUozSohjY/edit?usp=sharing)
+
+### Participating Institutions
+* Georgetown
+* University of Maryland
+* World Bank
+* Va Tech
+* NASWA (State Workforce Agencies)
+* DuraSpace
+* University of Oklahoma
+* University of Arizona
+* UCLA
+* The College of New Jersey
+* Swarthmore
+* Smithsonian
+* SC State Library
+* Ohio State
+* Indiana U Purdue U Indy
+* Georgetown Law
+* Delaware
+* Cornell
+* Colorado State
+* Auburn
+* Allegheny
+* @Mire
