@@ -1,3 +1,6 @@
+![DSpace Logo](dspace_logo_0.png)
+![Georgetown Library Logo](https://www.library.georgetown.edu/sites/default/files/library-logo.png)
+
 #  North American DSpace User Meeting, Georgetown University, Aug 2017
 The Georgetown University Library hosted a [DSpace North American User Meeting](https://www.library.georgetown.edu/node/19724) for the DSpace Community on Aug 22-23, 2017. 39 people attended from 22 institutions.  The event featured a combination of topics and breakout sessions of interest to DSpace developers and DSpace repository managers. Session topics will included both technical topics and discussions of DSpace community processes. The agenda was participant driven based on proposals by attendees. 
 
