@@ -80,3 +80,6 @@ Georgetown University Library
 * [Customized Collections](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=customizedCollections)
 * [Contributing to DSpace](https://gitpitch.com/terrywbrady/dspaceUserMeeting?p=contributingToDSpace)
 
+## Modular Presentations
+
++++?include=schedule/PITCHME.md
