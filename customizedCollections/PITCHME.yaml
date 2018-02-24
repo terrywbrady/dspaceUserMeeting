@@ -10,5 +10,3 @@ slide-number: true
 
 background-size : contain
 
-# Allow fast nav with shift key
-revealjs-version : 3.4.1
